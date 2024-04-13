@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "genetic-evolution-tournament"
+version = "0.1.0"
+description = "This poetry environment is aimed at supporting Python code for the Genetic Evolution Tournament. MT This includes the pre-commit package and tools for data visualization."
+authors = ["AFg6K7h4fhy2 <127630341+AFg6K7h4fhy2@users.noreply.github.com>"]
+license = "CC0-1.0 license"
+readme = "README.md"
+packages = [{include = "genetic_evolution_tournament"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pre-commit = "^3.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
