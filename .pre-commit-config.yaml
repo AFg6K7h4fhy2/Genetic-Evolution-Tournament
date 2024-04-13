@@ -47,10 +47,10 @@ repos:
     -   id: actionlint
 ################################################################################
 # Typos
-# -   repo: https://github.com/crate-ci/typos
-#     rev: v1.20.7
-#     hooks:
-#     -   id: typos
+-   repo: https://github.com/crate-ci/typos
+    rev: v1.20.7
+    hooks:
+    -   id: typos
 ################################################################################
 # Commit Messages
 -   repo: https://github.com/commitizen-tools/commitizen
