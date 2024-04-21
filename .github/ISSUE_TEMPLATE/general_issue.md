@@ -1,7 +1,7 @@
 ---
-AFg6K7h4fhy2: General Issue
+name: General Issue
 about: An issue template for the Genetic Evolution Tournament (GET) repository.
-title: ''
+title: '[GET_ISSUE]'
 labels: ["general-issue"]
 assignees: ''
 ---
