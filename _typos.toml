@@ -14,4 +14,4 @@ dot_fot = ".fot"
 dot_ist = ".ist"
 
 [files]
-extend-exclude = [".gitignore"]
+extend-exclude = [".gitignore", ".pre-commit-config.yaml"]
