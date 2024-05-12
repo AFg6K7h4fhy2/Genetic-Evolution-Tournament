@@ -1,0 +1,194 @@
+["DEFCON 1"]
+color = "ffffff"
+name = "DEFCON 1"
+description = ""
+
+["DEFCON 2"]
+color = "ff0000"
+name = "DEFCON 2"
+description = ""
+
+["DEFCON 3"]
+color = "ffff00"
+name = "DEFCON 3"
+description = ""
+
+["DEFCON 4"]
+color = "00ff00"
+name = "DEFCON 4"
+description = ""
+
+["DEFCON 5"]
+color = "1e90ff"
+name = "DEFCON 5"
+description = ""
+
+[automation]
+color = "cfd3d7"
+name = "automation"
+description = "Makes something less manual"
+
+[bug]
+color = "cfd3d7"
+name = "bug"
+description = "Something isn't working"
+
+[compliance]
+color = "cfd3d7"
+name = "compliance"
+description = "Must adhere to external rules"
+
+[critical]
+color = "cfd3d7"
+name = "critical"
+description = "Crucial for things to work"
+
+[data]
+color = "cfd3d7"
+name = "data"
+description = "Data storage, preparation, and loading"
+
+[deployment]
+color = "cfd3d7"
+name = "deployment"
+description = "Improvements or additions to deployments"
+
+[discussion]
+color = "cfd3d7"
+name = "discussion"
+description = "Conversation, postulation, and reflection"
+
+[documentation]
+color = "cfd3d7"
+name = "documentation"
+description = "Improvements or additions to documentation"
+
+[duplicate]
+color = "cfd3d7"
+name = "duplicate"
+description = "This issue or pull request already exists"
+
+[enhancement]
+color = "cfd3d7"
+name = "enhancement"
+description = "New feature or request"
+
+[experimentation]
+color = "cfd3d7"
+name = "experimentation"
+description = "For experimentation, non-essential"
+
+[explanation]
+color = "cfd3d7"
+name = "explanation"
+description = "Documentation that primarily explains"
+
+[feedback]
+color = "cfd3d7"
+name = "feedback"
+description = "Suggested improvements"
+
+["good first issue"]
+color = "cfd3d7"
+name = "good first issue"
+description = "Good for newcomers"
+
+[guide]
+color = "cfd3d7"
+name = "guide"
+description = "Documentation that primarily guides how-to"
+
+["help wanted"]
+color = "cfd3d7"
+name = "help wanted"
+description = "Extra attention is needed"
+
+[invalid]
+color = "cfd3d7"
+name = "invalid"
+description = "This doesn't seem right"
+
+[learning]
+color = "cfd3d7"
+name = "learning"
+description = "For the purpose of learning"
+
+[meta]
+color = "cfd3d7"
+name = "meta"
+description = "Top level considerations"
+
+[performance]
+color = "cfd3d7"
+name = "performance"
+description = "Improvements or additions to performance"
+
+[presentation]
+color = "cfd3d7"
+name = "presentation"
+description = "Materials for presenting something"
+
+[question]
+color = "cfd3d7"
+name = "question"
+description = "Further information is requested"
+
+[reading]
+color = "cfd3d7"
+name = "reading"
+description = "Engagement with written information"
+
+[reference]
+color = "cfd3d7"
+name = "reference"
+description = "Improvements or additions to repository reproducibility"
+
+[reproducibility]
+color = "cfd3d7"
+name = "reproducibility"
+description = "Improvements or additions to repository reproducibility"
+
+[resources]
+color = "cfd3d7"
+name = "resources"
+description = "Materials for reference and development"
+
+[security]
+color = "cfd3d7"
+name = "security"
+description = "Improvements and additions to security"
+
+[standards]
+color = "cfd3d7"
+name = "standards"
+description = "Best practices on ways to do things"
+
+[template]
+color = "cfd3d7"
+name = "template"
+description = "Standardizing development structures"
+
+[testing]
+color = "cfd3d7"
+name = "testing"
+description = "Verifying something works as intentioned"
+
+[tutorial]
+color = "cfd3d7"
+name = "tutorial"
+description = "Documentation that primarily teaches"
+
+[visuals]
+color = "cfd3d7"
+name = "visuals"
+description = "Plots, flow charts, and other visuals"
+
+[wontfix]
+color = "cfd3d7"
+name = "wontfix"
+description = "This will not be worked on"
+
+[writing]
+color = "cfd3d7"
+name = "writing"
+description = "Improvements and additions to written works"

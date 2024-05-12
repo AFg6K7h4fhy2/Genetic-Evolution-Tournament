@@ -30,7 +30,7 @@ GET currently consists of 5 question categories:
 * (2) Technological Advancements and Clinical Applications
 * (3) Regulatory and Policy Developments
 * (4) Accessibility and Demographic Shifts
-* (5) Healthcare and Insurance System Evolution.
+* (5) Healthcare and Insurance System Evolution
 
 Each category is intended to have between 15 and 25 questions, for an expected question total of between 75 to 125 questions (in reality, the question total seems likely to be closer to 125-150 questions, but this depends on how many are pruned).
 
