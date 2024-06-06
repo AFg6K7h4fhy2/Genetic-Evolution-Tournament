@@ -51,6 +51,7 @@ repos:
     rev: v1.20.7
     hooks:
     -   id: typos
+        args: ["--force-exclude"]
 ################################################################################
 # Commit Messages
 -   repo: https://github.com/commitizen-tools/commitizen

@@ -1,28 +1,53 @@
-# Genetic-Evolution-Tournament
+# The Genetic Evolution Tournament
 
-This repository contains the majority of the content of the Genetic Evolution Tournament (GET), which is hosted on Metaculus
+This repository contains most of the source materials (not including references) for the _Genetic Evolution Tournament_ (hereafter referred to as GET), a tournament broadly concerned with human genetic modification and reproduction protocols, for the purposes of both treatment and enhancement (predominantly enhancement). GET is being privately hosted on [Metaculus](https://en.wikipedia.org/wiki/Metaculus). Eventually, Metaculus community forecasts made on GET questions will be ported to this repository and analyzed.
 
-## General Introduction
+NOTE: Please, dear reader, if you have feedback, contact the author at `t E tang Atama` [at] `prot on` [dot] `me` (with spaces removed) or open an [issue](https://github.com/AFg6K7h4fhy2/Genetic-Evolution-Tournament/issues) in this repository. All feedback is welcome; however, feedback that enhances (1) the epistemics of claims made in this tournament's questions (and other files), (2) the visibility and or utility of this tournament, or (3) other exact properties of the tournament (such as an additional question or an alteration in the structure) is _particularly_ desired.
 
-_Note_: This introduction is perceived as inadequate by the author and will very likely change between April-May 2024. Nonetheless, this description serves as a working placeholder.
+## Summary Introduction
 
-Contained in this introduction are some motivating remarks on possible future(s) for human reproduction and human genetic constitution. After this, the author provides a short description of the _Genetic Evolution Tournament_ (hereafter referred to as GET), which is currently under development and due to be released on [Metaculus](https://en.wikipedia.org/wiki/Metaculus) (as a private [tournament](https://en.wikipedia.org/wiki/Prediction_market)) somewhere between May 01-30 2024 (more mass on Late May).
+* Private tournament on Metaculus
+* Focuses on human gene modification and reproduction for enhancing human capabilities
+* 150 questions across 5 categories
+  * Ethical, Legal, and Societal Implications
+  * Technological Advancements and Clinical Applications
+  * Regulatory and Policy Developments
+  * Accessibility and Demographic Shifts
+  * Healthcare and Insurance System Evolution
+* 15K USD in prizes
+  * 5k USD for forecasting accuracy
+  * 10K USD for comments, in stages
+* Tentative end date of 2035
 
-[Scientific progress](https://en.wikipedia.org/wiki/Progress#Scientific_progress) in [genetics](https://en.wikipedia.org/wiki/Genetics), [genetic engineering](https://en.wikipedia.org/wiki/Genetic_engineering), and [assisted-reproduction](https://en.wikipedia.org/wiki/Assisted_reproductive_technology) continues at a rapid and accelerating pace, with current technological capabilities far exceeding those imagined by researchers and policy-makers in [biotechnology](https://en.wikipedia.org/wiki/Biotechnology) at the start of this century.
+To view tournament files, please head to `./GET/source/`
 
-Frontier events in genetic engineering, such as the [He Jiankui affair](https://en.wikipedia.org/wiki/He_Jiankui_affair), have required all of humanity to consider scenarios and possibilities for the modification of human biology.
+## Example Questions
 
-Although extreme-fidelity human gene modifications (as in precisely exacting desired genetic outcomes) or, more broadly, [tools for the modification of human biology](https://en.wikipedia.org/wiki/Genetic_engineering_techniques) at a caliber similar to what we might expect to be employed in _[Brave New World](https://en.wikipedia.org/wiki/Brave_New_World)_ or _[Gattaca](https://en.wikipedia.org/wiki/Gattaca)_, are yet unrealized, developments in the aforementioned fields steer evermore towards this capacity.
+## Extended Introduction
 
-Fortunately, considerable [anticipatory work in ethics](https://en.wikipedia.org/wiki/Bioethics) and governance have coincided with progress in these genetic and reproductive fronts; however, there are numerous scenarios for the future of humanity involving the trajectories of different technologies—e.g., [PGD](https://en.wikipedia.org/wiki/Preimplantation_genetic_diagnosis) w/ [iPSCs](https://en.wikipedia.org/wiki/Induced_pluripotent_stem_cell) or prenatal genetic engineering—that have yet to receive consideration in forecasting frameworks. Handling anticipatory blind spots and reducing uncertainty on futures involving humanity's possible genetic evolution seems important to coordination between researchers, the public, and policy-makers on directing outcomes and safeguarding certain aspects of humanity's future.
+NOTE: This description, which contains various inadequacies, is a minimally viable placeholder. Beyond the content detailing GET, there are many unsubstantiated claims. At some point, this tournament might be developed into a pre-print, in which case the author will more strongly evidence claims regarding the landscape of current capabilities for human enhancement and treatment via genetic and reproductive means. GET questions often contain references to research literature, but these are far from comprehensive. The Extended Introduction section is liable to change.
 
-Despite the expected that most traction will occur within the [Effective Altruism](https://forum.effectivealtruism.org/), [Less Wrong](https://www.lesswrong.com/), and [Metaculus](https://www.metaculus.com/questions/) communities, GET seeks to occupy this niche (i.e., uncertainty reduction on futures involve varying levels of human-targeted DNA and assisted-reproduction technologies).
+This introduction starts with some motivating remarks on possible future(s) for human reproduction and human genetic constitution. Following this, the author briefly describes GET, which is currently under development and due to be released on Metaculus (as a private [tournament](https://en.wikipedia.org/wiki/Prediction_market)) sometime between now and August 2024.
 
-GET will ideally contribute, via the forecasts collected across its lifespan, to a broader scenario modelling effort, which might inform decision-making on the technologies and procedures involved in human genetics and reproduction in policy and at the level of the individual.
+[Scientific progress](https://en.wikipedia.org/wiki/Progress#Scientific_progress) in [genetics](https://en.wikipedia.org/wiki/Genetics), [genetic engineering](https://en.wikipedia.org/wiki/Genetic_engineering), and [assisted-reproduction](https://en.wikipedia.org/wiki/Assisted_reproductive_technology) continues at a rapid and accelerating pace, with current technological capabilities far exceeding those imagined by researchers and policy-makers in [biotechnology](https://en.wikipedia.org/wiki/Biotechnology) at the start of the 21st century.
+
+Frontier events in genetic engineering, such as the [He Jiankui affair](https://en.wikipedia.org/wiki/He_Jiankui_affair), have required all of humanity to consider scenarios and possibilities—ranging the gamut of expected value from fantastical to catastrophic—concerning the manipulation of human biology.
+
+Although extreme-fidelity human gene modification (as in precisely exacting desired genetic outcomes) or, more broadly, [modification of human biology](https://en.wikipedia.org/wiki/Genetic_engineering_techniques) at a caliber similar to what we might expect to be employed in _[Brave New World](https://en.wikipedia.org/wiki/Brave_New_World)_ or _[Gattaca](https://en.wikipedia.org/wiki/Gattaca)_, is yet unrealized, developments in the aforementioned fields steer evermore towards this capacity.
+
+Fortunately, considerable [anticipatory work in ethics](https://en.wikipedia.org/wiki/Bioethics) and governance have coincided with scientific and technological progress in genetic and reproductive research fronts. Ethical work on directed use of technology on human biology has involved some degree of implicit and or explicit scenario analysis, but this analysis (in the author's sampling of the literature) has infrequently employed forecasting.
+
+Handling anticipatory blind spots and reducing uncertainty on futures involving humanity's possible genetic evolution via forecasting seems important for coordination between researchers, the public, and policy-makers in directing outcomes and safeguarding certain aspects of humanity's future.
+
+<!-- Given the magnitude of scenarios for the future of humanity involving the trajectories of different biotechnologies—e.g., [PGD](https://en.wikipedia.org/wiki/Preimplantation_genetic_diagnosis) w/ [iPSCs](https://en.wikipedia.org/wiki/Induced_pluripotent_stem_cell) or prenatal genetic engineering—and the utility of forecasting in scenario analyses, incorporating forecasting.  -->
+
+Despite the expected outcome for GET being that most community traction will occur within the [Effective Altruism](https://forum.effectivealtruism.org/), [Less Wrong](https://www.lesswrong.com/), and [Metaculus](https://www.metaculus.com/questions/) communities, GET seeks to occupy the general niche of uncertainty reduction on futures involving varying levels of human-targeted DNA and assisted-reproduction technologies.
+
+GET will ideally contribute, via the forecasts collected across its lifespan, to a broader scenario modelling effort occurring across discussions on the future(s) of human genetics and reproduction. These forecasts and their analysis might inform individual and policy decision-making on the technologies and procedures involved in human genetics and reproduction.
 
 <!-- Taking a step back, we might ask: Why is human judgement forecasting (HJF) valuable? Note first that there is much more that can be said on this topic than I will cover in this paragraph (for a reasonably good reference, check out this paper). While algorithmic or semi-algorithmic (algorithms that involve human tuning or correction) forecasts often outperform HJFs across certain classes of questions for which there is data, situations in which data ready for modelling is scarce or where models have not yet reached an acceptable maturity level can benefit from HJF. Beyond the general reduction of uncertainty attainable through HJF methods, HJF has also demonstrated value in scenario analysis. Here, forecasters might first generate scenarios and then determine their plausibility, sometimes providing a final, combined forecast from the scenarios. HJF-generated scenarios can at times be more cost-effective than computational models, especially in situations where the creation of statistical models is unattainable, given resources or time-frames. -->
 
-With respect to the forecasting platform for GET, given both Metaculus's status as a reputable human judgment forecast (HFJ) aggregator and the author's familiarity with the site, Metaculus was chosen as the site to host GET. There is precedent in public tournaments on Metaculus for incentivizing forecasters both to make clear and well-reasoned comments and to forecast truthfully and accurately. See this the [tournaments page](https://www.metaculus.com/tournaments/) on Metaculus for example tournaments.
+With respect to the forecasting platform for GET, given both Metaculus's status as a reputable human judgement forecast (HJF) aggregator (this is the author's impression) and the author's familiarity with the site (the author is biased in this way), Metaculus was chosen as the site to host GET. The particular language and norms adopted in public tournaments on Metaculus typically incentivize forecasters to make clear and well-reasoned comments and to forecast as honestly and as accurately as possible. For example Metaculus tournaments, see this [page](https://www.metaculus.com/tournaments/).
 
 GET currently consists of 5 question categories:
 
@@ -32,10 +57,82 @@ GET currently consists of 5 question categories:
 * (4) Accessibility and Demographic Shifts
 * (5) Healthcare and Insurance System Evolution
 
-Each category is intended to have between 15 and 25 questions, for an expected question total of between 75 to 125 questions (in reality, the question total seems likely to be closer to 125-150 questions, but this depends on how many are pruned).
+Each category was intended to have between 15 and 25 questions; the intention was to between 75 to 125 questions in total.
 
-To incentivize forecaster participation, there are prizes totaling 15K USD. Prizes are partitioned into a forecasting accuracy component (5k USD), with questions scored via Metaculus's default scoring procedures ([peer scores](https://www.metaculus.com/help/scores-faq/)), and a commenting component (10k USD). Within the commenting component, 2.5k USD is allocated to comments on questions that are part of the forecasting accuracy component (shorter-term questions) and 7.5k USD is allocated to comments on longer-term questions.
+To incentivize forecaster participation, there are prizes totaling 15K USD. Prizes are partitioned into a forecasting accuracy component (5k USD), with questions scored via Metaculus's default scoring procedures ([peer scores](https://www.metaculus.com/help/scores-faq/)), and a commenting component (10k USD).
 
-Beyond aggregating forecasts and scenarios via GET's questions, a reach-goal of GET is the elicitation of some engagement (commentary and or participation) from figures in academia with expertise in the science and or regulation of the technologies and procedures that are part of the fields of human genetics, genetic engineering (DNA technology generally), and assisted-reproduction. Barring this outcome, the author is still moderately confident that GET can be impactful, conditional on the completion of a retrospective analysis of the forecasts and forecast-rationales (scenarios) engendered.
+Originally, within the commenting component, 2.5k USD was allocated to comments on questions that are part of the forecasting accuracy component (shorter-term questions) and 7.5k USD was allocated to comments on longer-term questions. However, after some deliberation, a decision was made to break the commenting section of the tournament into 5 stages, each with 2k USD. The tournament is expect to last roughly 10 years. There is the possibility for additional funding altering the structure of the tournament.
 
-The author welcomes any feedback on the tournament. Please [make an issue](https://github.com/AFg6K7h4fhy2/Genetic-Evolution-Tournament/issues) for this or comment in [one of the discussion threads](https://github.com/AFg6K7h4fhy2/Genetic-Evolution-Tournament/discussions).
+<!-- Beyond aggregating forecasts and scenarios via GET's questions, a reach-goal of GET is the elicitation of some engagement (commentary and or participation) from figures in academia with expertise in the science and or regulation of the technologies and procedures that are part of the fields of human genetics, genetic engineering (DNA technology generally), and assisted-reproduction. Barring this outcome, the author is still moderately confident that GET can be impactful, conditional on the completion of a retrospective analysis of the forecasts and forecast-rationales (scenarios) engendered. -->
+
+## Repository Structure
+
+Using `tree -I "_minted-input|*.csl"`:
+
+```
+.
+├── CONTRIBUTING.md
+├── GET
+│   ├── announcements
+│   ├── outreach
+│   │   ├── email.md
+│   │   └── where.md
+│   ├── questions
+│   │   ├── 01_questions
+│   │   ├── 02_questions
+│   │   ├── 03_questions
+│   │   ├── 04_questions
+│   │   ├── 05_questions
+│   │   ├── README.md
+│   │   ├── decisions.md
+│   │   └── existing.md
+│   ├── resources
+│   │   ├── articles.md
+│   │   ├── books.md
+│   │   ├── post_lw.md
+│   │   ├── posts_eaf.md
+│   │   └── wiki.md
+│   ├── template
+│   │   ├── 01_overview.md
+│   │   ├── 02_prize_structure.md
+│   │   ├── 03_scoring.md
+│   │   ├── 04_expected_resolution.md
+│   │   ├── 05_end_date_leaderboard.md
+│   │   ├── 06_problem_resolution.md
+│   │   ├── 07_extinction.md
+│   │   ├── 08_feedback.md
+│   │   └── README.md
+│   └── visuals
+│       └── gs_hits.md
+├── LICENSE
+├── README.md
+├── _typos.toml
+├── docs
+├── labels.toml
+├── manuscript
+│   ├── Makefile
+│   ├── output
+│   │   ├── out.pdf
+│   │   └── template.latex
+│   └── source
+│       ├── 01_background.md
+│       ├── code
+│       │   └── test.py
+│       ├── metadata.yml
+│       └── references.bib
+├── poetry.lock
+└── pyproject.toml
+
+18 directories, 34 files
+```
+
+Within the GET folder of this repository, there is, briefly, the following:
+
+* GET questions are in `questions`. Existing questions on Metaculus relevant to GET, along with decisions that were made regarding questions, are contained in this folder as well.
+* Links to articles, books, Wikipedia pages, LessWrong posts, and EA Forum posts relevant to GET are in `resources`.
+* The front matter of GET, including the overview, prize structure, scoring, expected resolutions, leaderboard utility, end date, problem resolution, extinction case, and feedback sections, is in `template`.
+* The `outreach` folder contains email templates for contacting researchers and other notable figures who might have helpful feedback for this tournament.
+* The `announcements` folder contains Pandoc Markdown content for announcement posts for GET that were made on LessWrong, the EA Forum, Substack, Reddit, Metaculus, and Discord.
+* The `visuals` folder contains images and data visualizations that came about through the creation of questions for GET.
+
+<!-- ## Comments On The License -->
