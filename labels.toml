@@ -121,7 +121,7 @@ description = "Top level considerations"
 [performance]
 color = "cfd3d7"
 name = "performance"
-description = "Improvements or additions to performance"
+description = "Improvements to repository performance"
 
 [presentation]
 color = "cfd3d7"
@@ -131,22 +131,22 @@ description = "Materials for presenting something"
 [question]
 color = "cfd3d7"
 name = "question"
-description = "Further information is requested"
+description = "Request for further information"
 
 [reading]
 color = "cfd3d7"
 name = "reading"
-description = "Engagement with written information"
+description = "Reading engagement (learning)"
 
 [reference]
 color = "cfd3d7"
 name = "reference"
-description = "Improvements or additions to repository reproducibility"
+description = "Documentation primarily serving as a reference"
 
 [reproducibility]
 color = "cfd3d7"
 name = "reproducibility"
-description = "Improvements or additions to repository reproducibility"
+description = "Related to repository reproducibility"
 
 [resources]
 color = "cfd3d7"
@@ -161,7 +161,7 @@ description = "Improvements and additions to security"
 [standards]
 color = "cfd3d7"
 name = "standards"
-description = "Best practices on ways to do things"
+description = "Related to best practices and standards"
 
 [template]
 color = "cfd3d7"
@@ -171,7 +171,7 @@ description = "Standardizing development structures"
 [testing]
 color = "cfd3d7"
 name = "testing"
-description = "Verifying something works as intentioned"
+description = "Verifying something works as intended"
 
 [tutorial]
 color = "cfd3d7"

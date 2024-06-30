@@ -1,10 +1,9 @@
 repos:
 ################################################################################
-# Basic file operations
 -   repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.6.0
     hooks:
-    #-   id: check-added-large-files
+    -   id: check-added-large-files
     -   id: check-yaml
         args: [--allow-multiple-documents]
     -   id: check-toml
@@ -12,9 +11,8 @@ repos:
     -   id: mixed-line-ending
     -   id: trailing-whitespace
 ################################################################################
-# Python
 -   repo: https://github.com/psf/black-pre-commit-mirror
-    rev: 24.3.0
+    rev: 24.4.2
     hooks:
     -   id: black-jupyter
         args: ['--line-length', '79']
@@ -25,37 +23,29 @@ repos:
     -   id: isort
         args: ['--profile', 'black',
                '--line-length', '79']
+-   repo: https://github.com/numpy/numpydoc
+    rev: v1.7.0
+    hooks:
+    -   id: numpydoc-validation
 -   repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.3.6
+    rev: v0.4.7
     hooks:
       - id: ruff
         args: ['--ignore=E741', '--ignore=E731', '--fix']
 ################################################################################
-# Secrets
-# Turning Off until there are actually secrets
-# -   repo: https://github.com/Yelp/detect-secrets
-#     rev: v1.4.0
-#     hooks:
-#     -   id: detect-secrets
-#         args: ['--baseline', '.secrets.baseline']
-#         exclude: package.lock.json
-################################################################################
-# GitHub Actions
 -   repo: https://github.com/rhysd/actionlint
-    rev: v1.6.27
+    rev: v1.7.1
     hooks:
     -   id: actionlint
 ################################################################################
-# Typos
 -   repo: https://github.com/crate-ci/typos
-    rev: v1.20.7
+    rev: v1.21.0
     hooks:
     -   id: typos
         args: ["--force-exclude"]
 ################################################################################
-# Commit Messages
 -   repo: https://github.com/commitizen-tools/commitizen
-    rev: v3.22.0
+    rev: v3.27.0
     hooks:
     -   id: commitizen
 ################################################################################
