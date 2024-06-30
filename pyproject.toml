@@ -3,7 +3,7 @@ name = "genetic-evolution-tournament"
 version = "0.1.0"
 description = "The Genetic Evolution Tournament."
 authors = ["AFg6K7h4fhy2 <127630341+AFg6K7h4fhy2@users.noreply.github.com>"]
-license = "CC0-1.0"
+license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
