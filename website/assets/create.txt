@@ -1,0 +1,13 @@
+mkdir website
+cd website
+quarto create project book .
+--> make create.txt, add content
+add TQR style.css
+add TQR assets
+add NACP quarto structure
+remove .gitignore
+create question groups
+create background, dedication, acknowledgements
+create primary questions
+edit sidebar in style.css
+delete cover.png, add square icon
