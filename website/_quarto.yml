@@ -1,0 +1,62 @@
+project:
+  type: book
+  title:  "Genetic Evolution Tournament"
+
+book:
+  title: "Genetic Evolution Tournament"
+  author: "AFg6K7h4fhy2"
+  description: "_The Genetic Evolution Tournament (hereafter referred to as GET), is a tournament concerned broadly with the use of genetic modification and reproduction protocols on humans, for the purposes of both treatment and enhancement, but predominantly enhancement._"
+  page-footer: Copyright, [AFg6K7h4fhy2](https://github.com/AFg6K7h4fhy2)
+  date: "2024-10-16"
+  favicon: favicon.jpg
+  navbar:
+    right:
+      - text: "Contact"
+        href: contact.qmd
+      - icon: github
+        href: "https://github.com/AFg6K7h4fhy2/Genetic-Evolution-Tournament"
+  chapters:
+    - index.qmd
+    - dedication.qmd
+    - acknowledgements.qmd
+    - overview.qmd
+    - front_matter/structure.qmd
+    - front_matter/hosting.qmd
+    - part: "Q: Ethical, Legal, & Societal Implications"
+      chapters:
+        - question_group_01/introduction.qmd
+        - question_group_01/question_g01_01.qmd
+    - part: "Q: Technological Advancements & Clinical Applications"
+    - part: "Q: Regulatory & Policy Developments"
+    - part: "Q: Accessibility & Demographic Shifts"
+    - part: "Q: Healthcare & Insurance System Evolution"
+    - part: Announcements
+      chapters:
+        - announcements/lw_and_eaf.qmd
+        - announcements/other.qmd
+    - part: Resources
+      chapters:
+        - resources/articles.qmd
+        - resources/books.qmd
+        - resources/lw_and_eaf_posts.qmd
+        - resources/wiki.qmd
+    - part: Appendix
+      chapters:
+        - appendix/glossary.qmd
+        - appendix/trends.qmd
+        - appendix/additional_remarks.qmd
+
+bibliography: references.bib
+
+numbered: true
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    site-url: "https://AFg6K7h4fhy2.github.io/Genetic-Evolution-Tournament/"
+  pdf:
+    documentclass: scrreprt

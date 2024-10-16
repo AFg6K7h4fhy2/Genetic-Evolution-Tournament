@@ -1,0 +1,11 @@
+
+![[From Wikipedia](https://en.wikipedia.org/wiki/Prometheus_Bound#Synopsis) (2024-10-16): _Before the play begins, Kronos, the ruler of the pre-Olympian gods (the Titans), had been overthrown by an insurgency led by Zeus. In that revolt, Prometheus had sided with Zeus. As the new king, Zeus intended to destroy and replace humankind. Prometheus frustrated this plan, showing humans the use of fire, which Prometheus had stolen. Prometheus also taught humanity the arts. For these acts of defiance, Zeus intends to punish Prometheus by chaining him to a rock in the mountains of Scythia._](./assets/images/1280px-Rubens_-_Prometheus_Bound.jpg){ width=85% }
+
+
+# Preface {.unnumbered}
+
+This is a Quarto book.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+Section on extreme outcomes.

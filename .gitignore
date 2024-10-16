@@ -492,3 +492,5 @@ _site
 _freeze
 .DS_Store
 DS_Store
+_book/
+_book
