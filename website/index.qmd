@@ -1,3 +1,7 @@
+
+![](./assets/images/1280px-Rubens_-_Prometheus_Bound.jpg){ width=85% }
+
+
 # Preface {.unnumbered}
 
 This is a Quarto book.
