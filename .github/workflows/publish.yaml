@@ -17,13 +17,11 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Install TinyTeX
-        run: |
-          tlmgr install xetex
-          tlmgr install texlive-latex-extra
-          tlmgr install texlive-xetex
-          tlmgr install texlive-fonts-recommended
-          tlmgr path add
+      - name: Set up Quarto with TeX Live using Docker
+        uses: docker://quartoquarto/quarto:latest
+
+      - name: Render Quarto Site
+        run: quarto render
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
