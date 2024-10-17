@@ -139,16 +139,14 @@ a:hover {
 
 /* Keep the menu text always black */
 .menu-text, .nav-link {
-    color: black !important; /* Force the color to black */
+    color: white; /* Force the color to black */
     font-variant: small-caps;
-    font-size: 25px;
 }
 
-/* Adjust other elements like icons if needed */
-.navbar-nav .nav-item .nav-link i {
-    color: black !important; /* Ensure icons also stay black */
+/* .navbar-nav .nav-item .nav-link i {
+    color: black !important;
     font-size: 25px;
-}
+} */
 
 /* Ensure dropdown menus also keep black text */
 .navbar-collapse .dropdown-menu .dropdown-item {
@@ -239,4 +237,15 @@ a:hover {
 
 
 
-/*FOOTER ####################################################################*/
+/*CHAPTER TITLES ####################################################################*/
+
+
+.chapter-title {
+    color: white;
+}
+.chapter-title:hover {
+    color: maroon;
+}
+.chapter-title.active {
+    color: red;
+}
