@@ -1,0 +1,72 @@
+# Aggregated Questions
+
+_The following contains questions for consideration (pruning, subsectioning, and or rephrasing) in GET. Included are questions where some work has already been expended (thus, the author is less inclined to prune these questions), where little work has been expended (full critique welcome here), and questions that already exist on Metaculus._
+
+## Q: Ethical, Legal, & Societal Implications
+
+## Q: Technological Advancements & Clinical Applications
+
+## Q: Regulatory & Policy Developments
+
+## Q: Accessibility & Demographic Shifts
+
+## Q: Healthcare & Insurance System Evolution
+
+## Existing Metaculus Questions
+
+
+- [How many gene-edited babies will have been born worldwide by the end of 2029?](https://www.metaculus.com/questions/3289/how-many-gene-edited-babies-will-have-been-born-worldwide-by-the-end-of-2029/)
+
+[By 2050, will genetic engineering techniques be available which can raise IQ by 10 points?](https://www.metaculus.com/questions/8515/by-2050-genetic-engineering-to-raise-iq/)
+
+[By the year 2100, will any jurisdiction enforce requirements for all births to be genetically engineered?](https://www.metaculus.com/questions/7250/ban-on-genetically-unmodified-humans/)
+
+[When will 100 babies be born whose embryos were selected for genetic scores for intelligence?](https://www.metaculus.com/questions/5525/ivf-based-embryo-selection-for-intelligence/)
+
+[When will some country do widespread embryo selection for intelligence?](https://www.metaculus.com/questions/9785/10-embryo-selection-for-iq-when/)
+
+[When will we see the first viable human case of in vitro gametogenesis?](https://www.metaculus.com/questions/7385/first-human-in-vitro-gametogenesis/)
+
+[When will the first human baby be born, whose embryo was polygenically selected from a cohort of at least 50 simultaneously obtained ova?](https://www.metaculus.com/questions/8910/massive-multiple-embryo-selection/)
+
+[How good will the best published polygenic score be for intelligence in 2026?](https://www.metaculus.com/questions/8090/polygenic-score-for-intelligence-in-2026/)
+
+[Will Republicans support embryo selection for intelligence more than Democrats?](https://www.metaculus.com/questions/9795/republicans-support-es-for-iq-more-than-dems/)
+
+[When will the first baby screened for polygenic traits by Orchid Health be born?](https://www.metaculus.com/questions/7031/first-commercial-polygenic-embryo-screening/)
+
+[Will India be one of the first ten countries to embryo select >10% of its newborns for intelligence?](https://www.metaculus.com/questions/9594/india-first-10-to-embryo-select-for-iq/)
+
+[Will a European Union member state be one of the first 10 countries to select 10% of its population for IQ?](https://www.metaculus.com/questions/9796/eu-member-first-10-to-embryo-select-for-iq/)
+
+[Will Israel be the first country to embryo select >10% of its newborns for intelligence?](https://www.metaculus.com/questions/9492/israeli-embryo-selection-for-intelligence/)
+
+[Will China be the first country to embryo select >10% of its newborns for intelligence?](https://www.metaculus.com/questions/9532/china-leads-in-embryo-selection-for-iq/)
+
+[Will Israel be one of the first ten countries to embryo select >10% of its newborns for intelligence?](https://www.metaculus.com/questions/9524/israeli-first-10-on-embryo-selection-for-iq/)
+
+[Will the USA be the first country to embryo select >10% of its newborns for intelligence?](https://www.metaculus.com/questions/9535/usa-leads-in-embryo-selection-for-iq/)
+
+[Will China be one of the first ten countries to embryo select >10% of its newborns for intelligence?](https://www.metaculus.com/questions/9533/china-first-10-to-embryo-select-for-iq/)
+
+[Will Singapore be the first country to embryo select >10% of its newborns for intelligence?](https://www.metaculus.com/questions/9491/singaporean-embryo-selection-for-intelligence/)
+
+[Will Singapore be one of the first ten countries to embryo select >10% of its newborns for intelligence?](https://www.metaculus.com/questions/9525/singapore-first-10-on-embryo-selection-for-iq/)
+
+[Will the USA be one of the first ten countries to embryo select >10% of its newborns for intelligence?](https://www.metaculus.com/questions/9534/usa-first-10-to-embryo-select-for-iq/)
+
+[By 2050, Will at least 20% of US births be screened as embryos to detect genetic disorders or disabilities?](https://www.metaculus.com/questions/8505/20-embryo-screened-births-us-by-2050/)
+
+[Will most of the first 100 IQ-selected "designer babies" be born in China?](https://www.metaculus.com/questions/7925/china-and-designer-babies/)
+
+[Will an anti-discrimination law be enacted to protect U.S. federal employees who have been genetically-edited or screened as embryos by 2100?](https://www.metaculus.com/questions/9752/protection-for-the-gene-editedscreened/)
+
+[When will a person who was not screened or genetically modified as an embryo file a lawsuit against their parents for not doing so?](https://www.metaculus.com/questions/9793/unscreenunmodified-person-sues-parents/)
+
+[When will a person who was screened or genetically modified as an embryo file a lawsuit against their parents for doing so?](https://www.metaculus.com/questions/9778/screenmodified-person-sues-parents/)
+
+[When will the first human being conceived in vitro from stem cell-derived gametes be born?](https://www.metaculus.com/questions/3034/when-will-the-first-human-baby-from-stem-cell-derived-gametes-be-born/)
+
+[What fraction of babies born in the US in 2029 will have been conceived in vitro?](https://www.metaculus.com/questions/3290/what-fraction-of-babies-born-in-the-us-in-2029-will-have-been-conceived-in-vitro/)
+
+[When will the first example of an entirely extracorporeal human pregnancy conclude with the 'birth' of a healthy, conscious child who lives for a period of at least one year from the date of birth?](https://www.metaculus.com/questions/2769/when-will-the-first-successful-entirely-artificial-extracorporeal-human-pregnancy-conclude/)
