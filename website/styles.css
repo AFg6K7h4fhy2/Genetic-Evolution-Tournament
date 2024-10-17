@@ -139,7 +139,6 @@ a:hover {
 
 /* Keep the menu text always black */
 .menu-text, .nav-link {
-    color: white; /* Force the color to black */
     font-variant: small-caps;
 }
 
@@ -149,9 +148,9 @@ a:hover {
 } */
 
 /* Ensure dropdown menus also keep black text */
-.navbar-collapse .dropdown-menu .dropdown-item {
-    color: black !important; /* Force black text in dropdowns */
-}
+/* .navbar-collapse .dropdown-menu .dropdown-item {
+    color: black !important;
+} */
 
 .listing-date {
     color: lightgray !important;
