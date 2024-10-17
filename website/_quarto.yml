@@ -45,6 +45,8 @@ book:
         - appendix/glossary.qmd
         - appendix/trends.qmd
         - appendix/additional_remarks.qmd
+  downloads:
+    - pdf
 
 bibliography: references.bib
 
@@ -60,3 +62,6 @@ format:
     site-url: "https://AFg6K7h4fhy2.github.io/Genetic-Evolution-Tournament/"
   pdf:
     documentclass: scrreprt
+    pdf-engine: xelatex
+    toc: true
+    number-sections: true
