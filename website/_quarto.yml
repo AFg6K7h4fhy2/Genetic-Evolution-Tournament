@@ -20,6 +20,7 @@ book:
     - dedication.qmd
     - acknowledgements.qmd
     - overview.qmd
+    - aggregated_questions.qmd
     - front_matter/structure.qmd
     - front_matter/hosting.qmd
     - part: "Q: Ethical, Legal, & Societal Implications"
