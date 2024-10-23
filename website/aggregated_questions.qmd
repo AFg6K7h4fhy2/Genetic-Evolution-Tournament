@@ -80,13 +80,115 @@ Will the World Health Organization (WHO) [OR other organization] establish a spe
 
 By 20XX, will a Nobel Peace Prize [OR other award, catalog of awards required] be awarded to an organization that works to ensure equitable access [outcome or effort based] to gene therapy [OR editing] for populations in developing countries [scope of developing nations required]?
 
-By 20XX, will at least one country have established a "genetic enhancement tax" aimed at subsidizing gene editing or therapy [scope of interventions required] treatments or enhancements for certain populations [scope of populations required]?
+By 20XX, will at least one country have established a "genetic enhancement tax" aimed at subsidizing gene-editing or therapy [scope of interventions required] treatments or enhancements for certain populations [scope of populations required]?
 
 By 20XX, will a court in a major jurisdiction [scope of jurisdiction required] rule that children born with genetic enhancements have the right to know the specifics of their genetic modifications?
 
 
-## Miscellaneous
+## Technological Advancements & Clinical Applications
 
+Will CRISPR-based [OR other DNA-technology, e.g. TALENs] treatment [more specific on treatment, need divide for gene-therapy v. edits] for genetic diseases be available in over XX% of countries by 20XX?
+
+Will a genetic editing technology more precise [definition and measurement of precision required; possible shift to continuous question, "_how much_"] than CRISPR be widely used for human treatments by 20XX?
+
+Will polygenic screening for complex diseases [diseases required, e.g. heart disease, diabetes, ...] become a standard [definition of standard required] part of prenatal care by 20XX?
+
+Will gene-editing therapies for neurodegenerative diseases [disease required, e.g. Alzheimer's, Parkinson's] be approved [scope of approval required] by the FDA [organization(s) approving required] by 20XX?
+
+Will human organs [scope of organs required; enhanced organ function or treatment for organ inadeqaucy?] grown from genetically modified cells be widely used [scope of widely used required] for transplants by 20XX?
+
+Will more than XX% of all cancer therapies [scope of cancer therapies required] involve some form of DNA or genetic engineering by 20XX?
+
+Will gene-editing [scope of gene-editing required] be used to treat autoimmune diseases [diseases required, e.g., Type 1 Diabetes, Rheumatoid Arthritis] in clinical practice [scope of clinical practice required] by 20XX?
+
+Will artificial intelligence be used to automatically [definition of automatically required] design personalized gene therapies [scope of gene therapies required] for patients [patient and or newborns?] by 20XX?
+
+Will a clinical trial [scope of trial required] using gene-editing to treat or prevent aging-related diseases be conducted by 20XX?
+
+Will there be a clinical trial [scope of trial required] using gene-editing for the enhancement of intelligence by 20XX?
+
+Will gene therapies to prevent inherited genetic disorders [disorder scope required, e.g. cystic fibrosis, sickle cell anemia, ...] be standard [definition of standard required] in newborn care in OECD countries [country designation required] by 20XX?
+
+Will more than XX% of hospitals [possibly poor measure for question] in OECD countries [country designation required] use gene-editing to treat infectious diseases [disease scope required, e.g., HIV, hepatitis] by 20XX?
+
+Will polygenic scoring be used to identify genetic predisposition to addiction [check required to see if this has already occurred, if so convert to continuous question] in clinical settings by 20XX?
+
+Will gene-editing be used in clinical trials [scope of trial required] to enhance [scope of enhancement required] immune responses in humans by 20XX?
+
+Will gene-editing be used to increase resistance to viral infections [infection scope required, e.g., influenza, COVID] by 20XX?
+
+Will gene-editing treatments for genetic vision impairments [impairment scope required, e.g., retinitis pigmentosa] be clinically approved [scope of approval required] by 20XX?
+
+Will polygenic risk scoring for mental health [scope of mental health required] be used in over XX% of hospitals [again, hospitals possibly not the best measure] by 20XX?
+
+Will polygenic embryo screening become a standard method [detailed definition of standard required] for selecting embryos in fertility clinics by 20XX?
+
+[question in general needs to be more specific, but hopefully the idea is communicated] Will synthetic DNA or gene circuits be used in human tissues for drug delivery or therapeutic purposes by 20XX?
+
+In what year will gene-editing therapies [scope of therapy and age-of-application required] for muscular dystrophy be available in over XX% of countries?
+
+By what year will the global market for gene-editing therapies surpass XX billion [possibly difficult to measure]?
+
+What percentage of all newborns in OECD countries [country designation required] will undergo polygenic risk screening for disease [can possibly be broken down by disease] by 20XX?
+
+In what year will gene-editing therapies for age-related cognitive decline [OR aging in general] be approved for use in humans?
+
+What percentage of the global population [measurement details required] will have access to gene-editing therapies for non-medical enhancements by 20XX?
+
+By what year will more than XX% of global fertility clinics [measurement details required] offer polygenic embryo screening for traits other than treatment [scope of treatment required]?
+
+What percentage of genetic engineering research funding will be dedicated to gene-editing therapies for metabolic diseases [OR other targets, scope of targets required] by 20XX?
+
+In what year will gene-editing for bone regeneration become a clinical reality [scope of clinical reality required]?
+
+What percentage of the global healthcare budget [measurement details required] will be spent on gene-editing therapies and polygenic screening by 20XX?
+
+By what year will the first CRISPR-based [OR other method] therapy to enhance muscle strength in humans complete a Phase X [scope of trials required] clinical trial?
+
+Will a gene-editing technique for increasing human lifespan enter Phase X [scope of trials required] clinical trials by 20XX?
+
+By 20XX, will there be a commercially available pre-implantation genetic diagnostic test that can screen for over XXX traits [scope of traits required]?
+
+When will a gene therapy aimed [definition of "aimed" required, can be unintentional enhancement release] at enhancing cognitive functions, such as memory or learning speed, be approved for use in any country?
+
+By what year will over 1000 babies born globally [measurement details required] have undergone polygenic screening for enhancement purposes before implantation?
+
+Will there be a breakthrough [definition of breakthrough required] in gene-editing accuracy, achieving a XX.XX% success rate [measurement details required] with no off-target effects [measurement details required], by 20XX?
+
+By 20XX, will scientists have developed a safe, reversible [scope of safe and reversible required] gene-editing system for use in human embryos?
+
+When will the first clinical trial using gene therapy to enhance sensory capabilities [scope of sensory capabilities required e.g., vision, hearing] in humans be initiated?
+
+By 20XX, will gene-editing for cosmetic traits [scope of cosmetic traits required e.g., eye color, height] in embryos be offered by clinics in more than X countries?
+
+Will a gene therapy designed to significantly [definition of significance required] reduce aging effects [OR other effects] in adults be demonstrated as effective in a peer-reviewed study [this designation, peer-reviewed, is main point of this question] by 20XX?
+
+By what year will a gene-editing therapy aimed at enhancing physical endurance or oxygen utilization [details on nature of performance required] in humans be used in a professional athletic context [scope of context required]? _An idea is that there would be sport divisions based on enhancement levels_.
+
+When will the first human trial of gene therapy to enhance resistance to common infectious diseases [scope of diseases required e.g., influenza] be completed [question is practically continuous form of previous binary question]?
+
+
+Will a new [is "new" needed?] gene-editing tool surpassing CRISPR-Cas9 [OR other DNA technology tool] in efficiency and or precision [definitions of efficiency and precision required] be discovered and described in a scientific journal by 20XX?
+
+By 20XX, will there be an established international registry tracking [scope of tracking required; in clinical context] the health outcomes of individuals who have undergone genetic enhancements?
+
+By what year will a gene therapy [scope of procedures required, outcome is focus] aimed at enhancing metabolic efficiency to prevent obesity be approved by the FDA?
+
+Will researchers demonstrate a successful use of gene-editing to increase human intelligence quotient (IQ) in a peer-reviewed study by 20XX [possibly too similar to other questions]?
+
+[details required, might be subsumed under previous vision question] When will the first application of gene-editing to improve human night vision be tested in a human clinical trial?
+
+By 20XX, will there be a gene-editing therapy [scope of therapy required] that allows for the customization of skin pigmentation, approved for cosmetic use in any country [possibly separate questions; possibly subsumed under previous cosmetic question]?
+
+Will a pre-implantation genetic screening test capable of predicting potential for athletic performance be commercially available by 20XX [claimed v. actual accuracy of test possible distinction]?
+
+By what year will over XXXX individuals have undergone somatic gene-editing for enhancement purposes outside of clinical trials [scope of outside clinical trials needed]?
+
+When will a gene-editing treatment (enhancement?) designed to significantly [definition of significantly needed] enhance human recovery time [measurement details needed] from physical injuries be demonstrated in a Phase X clinical trial?
+
+Will polygenic risk scoring for complex traits like resilience to stress [OR other traits e.g. creativity; measurement details required] be integrated into prenatal screening programs by 20XX?
+
+When will the first successful use of gene-editing to alter human hair growth patterns (baldness prevention) be reported in a scientific journal [possibly subsumed under another question; possibly boundary not scientific journal]?s
 
 
 
