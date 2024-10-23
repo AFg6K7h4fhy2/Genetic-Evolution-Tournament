@@ -6,7 +6,7 @@ linkcolor: blue
 
 # (Preliminary) Questions
 
-AUTHOR: Trevor Martin
+AUTHOR: REDACTED
 
 _[Link to the repository](https://github.com/AFg6K7h4fhy2/Genetic-Evolution-Tournament)_.
 
