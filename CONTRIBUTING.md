@@ -10,7 +10,7 @@ Forms of feedback may include (other feedback is welcome as well!):
   * Scientific accuracy of question phrasing.
   * Whether a question has actually already resolved.
   * Question groupings (if you believe a question is in the wrong group).
-  * Question resolution criteria. 
+  * Question resolution criteria.
 * Question proposal (proposing a new question).
 * Prize structure of GET.
 * End dates and durations of question batch (ordering of batches).
@@ -22,6 +22,3 @@ following (informal) guidelines:
 * When making an argument, please provide evidence.
 * Please aim to be clear with descriptions.
 * Be respectful of others.
-
-
-
