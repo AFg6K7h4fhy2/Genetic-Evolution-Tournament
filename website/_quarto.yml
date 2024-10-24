@@ -20,8 +20,15 @@ book:
     - dedication.qmd
     - acknowledgements.qmd
     - overview.qmd
-    - front_matter/structure.qmd
+    - front_matter/motivation.qmd
     - front_matter/hosting.qmd
+    - front_matter/administration.qmd
+    - front_matter/prize_structure.qmd
+    - front_matter/scoring.qmd
+    - front_matter/resolutions.qmd
+    - front_matter/end_dates.qmd
+    - front_matter/catastrophe.qmd
+    - front_matter/metaculus_issues.qmd
     - part: "Q: Ethical, Legal, & Societal Implications"
       chapters:
         - question_group_01/introduction.qmd
