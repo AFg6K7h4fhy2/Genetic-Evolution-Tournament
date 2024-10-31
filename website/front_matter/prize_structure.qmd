@@ -1,1 +1,51 @@
 # Prize Structure
+
+**Overview**: _The author explains the size and nature of the Genetic Evolution Tournament's prize pool. Next, the author details the prize structure of the Genetic Evolution Tournament and outlines the reasoning for this._
+
+**Disclaimer**: _Suggestions are very much appreciated on the prize structure._
+
+---
+
+Until further notice, the _Genetic Evolution Tournament_ maintains a prize pool of **15K USD**.
+
+There exists some possibility that more funding might become available in the future, so percentages are given for prize quantities.
+
+This prize pool is allocated over several categories: {short-term, medium-term, long-term} X {commenting-prize, forecasting-accuracy-prize}.
+
+One purpose of the tournament is to generate scenarios and discussion surrounding futures involving human enhancement via DNA and reproductive technologies; as such, comments supporting this end are incentivized via commenting prizes.
+
+Another purpose of the tournament is to quantify uncertainty on and predict the occurrence of certain milestones in human enhancement via the aforementioned technologies; as such, accurate and truthful forecasting is incentivized via forecasting prizes.
+
+* Short-Term Insights (35% = 5.25K USD)
+  * Period: Years 1-5, i.e. 2025-2029
+  * Commenting: 10, 0.2K USD prizes
+    * Interval: [2025-01-01, 2027-12-31]
+  * Forecasting: Questions in [2025, 2030).
+    * Interval: [2025-01-01, 2027-12-31]
+  * Award-Date: 2030-01-01
+* Medium-Term Insights (30% = 4.50K USD)
+  * Period: Years 5-10, i.e. 2030-2034
+  * Commenting: 10, 0.2K USD prizes
+    * Interval: [2025-01-01, 2032-12-31]
+  * Forecasting: Questions in [2030, 2040).
+    * Interval: [2025-01-01, 2032-12-31]
+  * Award-Date: 2035-01-01
+* Long-Term Insights (25% = 3.75K USD)
+  * Period: Years 10-15, i.e. 2035-2039
+  * Commenting: 10, 0.2K USD prizes
+    * Interval: [2025-01-01, 2032-12-31]
+  * Forecasting: Questions in [2040, 2100)
+    * Interval: [2025-01-01, 2032-12-31]
+  * Award-Date: 2040-01-01
+
+Restrictions on prizes:
+
+* No participant may receive no more than 1k USD in commenting prizes.
+
+The author reproduces the OWID Tournament's considerations for comments to be included in the commenting prize:
+
+> -   The comment pertains to correct time horizons
+-   The comment is well-reasoned and clearly written
+-   The comment provides valuable information and reasoning
+-   The comment identifies mistakes in the community's reasoning or clearly explains why the author's forecast differs from the community's
+-   The comment describes connections between forecasts on different question groups, or inconsistencies between forecasts on different question groups

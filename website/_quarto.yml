@@ -27,8 +27,7 @@ book:
     - front_matter/scoring.qmd
     - front_matter/resolutions.qmd
     - front_matter/end_dates.qmd
-    - front_matter/catastrophe.qmd
-    - front_matter/metaculus_issues.qmd
+    - front_matter/external_considerations.qmd
     - part: "Q: Ethical, Legal, & Societal Implications"
       chapters:
         - question_group_01/introduction.qmd

@@ -1,3 +1,15 @@
 # Hosting
 
-Privately hosted on Metaculus.
+The Genetic Evolution Tournament is publicly hosted on Metaculus on [this page](https://www.metaculus.com/tournament/genetic/).
+
+There is also a [GitHub page](https://github.com/AFg6K7h4fhy2/Genetic-Evolution-Tournament) for the tournament where participants can observe the development history of the tournament and provide detailed suggestions.
+
+```{mermaid}
+%%{init: {"theme": "neutral", "themeVariables": { "fontFamily": "Iosevka", "fontSize": "25px", "lineColor": "#808b96", "arrowheadColor": "#808b96", "edgeStrokeWidth": "10px", "arrowheadLength": "20px"}}}%%
+flowchart LR
+    A1[GitHub Development] --> A2[Feedback]
+    A2[Feedback] --> A3[Metaculus Page]
+
+    linkStyle default stroke: #808b96
+    linkStyle default stroke-width: 2.0px
+```
