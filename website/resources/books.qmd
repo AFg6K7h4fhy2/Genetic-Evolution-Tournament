@@ -1,4 +1,49 @@
 # Books
 
+_The author, in working on this tournament, has found the following books useful. At some point, this collection might be connected to the author's notes._
 
-[Creating Future People](https://www.amazon.com/Creating-Future-People-Jonathan-Anomaly/dp/1032636572) (Jonathan Anomaly, 2024)
+
+[Creating Future People: The Ethics Of Genetic Enhancement](https://library.oapen.org/handle/20.500.12657/58965)
+
+```
+@book{anomaly2020creating,
+  title={Creating future people: The ethics of genetic enhancement},
+  author={Anomaly, Jonathan},
+  year={2020},
+  publisher={Taylor \& Francis}
+}
+```
+
+
+[The End Of Sex And The Future Of Human Reproduction](https://books.google.com/books?hl=en&lr=&id=Xe6vDAAAQBAJ&oi=fnd&pg=PP1&dq=end+of+sex&ots=gPIKcY0Tw3&sig=PRxhBuFEFaEnH2AfBvgedy9J4iw)
+
+```
+@book{greely2016end,
+  title={The end of sex and the future of human reproduction},
+  author={Greely, Henry T},
+  year={2016},
+  publisher={Harvard University Press}
+}
+```
+
+[Enhancing Human Capacities](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781444393552)
+
+```
+@article{savulescu2011enhancing,
+  title={Enhancing Human Capacities},
+  author={Savulescu, Julian and ter Meulen, Ruud and Kahane, Guy},
+  year={2011},
+  publisher={Wiley Online Library}
+}
+```
+
+[Choosing Children: Genes, Disability, And Design](https://books.google.com/books?hl=en&lr=&id=k_s-KOnOgX0C&oi=fnd&pg=PP8&dq=choosing+children+&ots=v_hzHEaCfp&sig=fiU126uNzdvVP5ia-O5o8T6R7pE)
+
+```
+@book{glover2006choosing,
+  title={Choosing children: Genes, disability, and design},
+  author={Glover, Jonathan},
+  year={2006},
+  publisher={Oxford University Press}
+}
+```
