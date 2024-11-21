@@ -1,9 +1,57 @@
 # Books
 
-_The author, in working on this tournament, has found the following books useful. At some point, this collection might be connected to the author's notes._
+
+_The author, in working on this tournament, has found the following books useful. At some point, links might be added connecting the author's notes to these books._
 
 
-[Creating Future People: The Ethics Of Genetic Enhancement](https://library.oapen.org/handle/20.500.12657/58965)
+## Choosing Children: Genes, Disability, And Design
+
+__Link__: <https://academic.oup.com/book/11973>
+
+__Citation__:
+
+> Glover, Jonathan. Choosing children: Genes, disability, and design. Oxford University Press, 2006.
+
+__Bibtex__:
+
+```
+@book{glover2006choosing,
+  title={Choosing children: Genes, disability, and design},
+  author={Glover, Jonathan},
+  year={2006},
+  publisher={Oxford University Press}
+}
+```
+
+## Clinical ethics at the crossroads of genetic and reproductive technologies
+
+__Link__: <https://www.sciencedirect.com/book/9780443190452/clinical-ethics-at-the-crossroads-of-genetic-and-reproductive-technologies>
+
+__Citation__:
+
+> Hostiuc, Sorin, ed. Clinical ethics at the crossroads of genetic and reproductive technologies. Elsevier, 2023.
+
+__Bibtex__:
+
+```
+@book{hostiuc2023clinical,
+  title={Clinical ethics at the crossroads of genetic and reproductive technologies},
+  author={Hostiuc, Sorin},
+  year={2023},
+  publisher={Elsevier}
+}
+```
+
+
+## Creating Future People: The Ethics Of Genetic Enhancement
+
+__Link__: <https://library.oapen.org/handle/20.500.12657/58965>
+
+__Citation__:
+
+> Anomaly, Jonathan. Creating future people: The ethics of genetic enhancement. Taylor & Francis, 2020.
+
+__Bibtex__:
 
 ```
 @book{anomaly2020creating,
@@ -15,18 +63,16 @@ _The author, in working on this tournament, has found the following books useful
 ```
 
 
-[The End Of Sex And The Future Of Human Reproduction](https://books.google.com/books?hl=en&lr=&id=Xe6vDAAAQBAJ&oi=fnd&pg=PP1&dq=end+of+sex&ots=gPIKcY0Tw3&sig=PRxhBuFEFaEnH2AfBvgedy9J4iw)
 
-```
-@book{greely2016end,
-  title={The end of sex and the future of human reproduction},
-  author={Greely, Henry T},
-  year={2016},
-  publisher={Harvard University Press}
-}
-```
+## Enhancing Human Capacities
 
-[Enhancing Human Capacities](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781444393552)
+__Link__: <https://onlinelibrary.wiley.com/doi/book/10.1002/9781444393552>
+
+__Citation__:
+
+> Savulescu, Julian, Ruud ter Meulen, and Guy Kahane. "Enhancing Human Capacities." (2011).
+
+__Bibtex__:
 
 ```
 @article{savulescu2011enhancing,
@@ -37,13 +83,21 @@ _The author, in working on this tournament, has found the following books useful
 }
 ```
 
-[Choosing Children: Genes, Disability, And Design](https://books.google.com/books?hl=en&lr=&id=k_s-KOnOgX0C&oi=fnd&pg=PP8&dq=choosing+children+&ots=v_hzHEaCfp&sig=fiU126uNzdvVP5ia-O5o8T6R7pE)
+## The End Of Sex And The Future Of Human Reproduction
+
+__Link__: <https://www.hup.harvard.edu/books/9780674984011>
+
+__Citation__:
+
+> Greely, Henry T. The end of sex and the future of human reproduction. Harvard University Press, 2016.
+
+__Bibtex__:
 
 ```
-@book{glover2006choosing,
-  title={Choosing children: Genes, disability, and design},
-  author={Glover, Jonathan},
-  year={2006},
-  publisher={Oxford University Press}
+@book{greely2016end,
+  title={The end of sex and the future of human reproduction},
+  author={Greely, Henry T},
+  year={2016},
+  publisher={Harvard University Press}
 }
 ```
