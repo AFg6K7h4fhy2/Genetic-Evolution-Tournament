@@ -1,1 +1,103 @@
 # Books
+
+
+_The author, in working on this tournament, has found the following books useful. At some point, links might be added connecting the author's notes to these books._
+
+
+## Choosing Children: Genes, Disability, And Design
+
+__Link__: <https://academic.oup.com/book/11973>
+
+__Citation__:
+
+> Glover, Jonathan. Choosing children: Genes, disability, and design. Oxford University Press, 2006.
+
+__Bibtex__:
+
+```
+@book{glover2006choosing,
+  title={Choosing children: Genes, disability, and design},
+  author={Glover, Jonathan},
+  year={2006},
+  publisher={Oxford University Press}
+}
+```
+
+## Clinical ethics at the crossroads of genetic and reproductive technologies
+
+__Link__: <https://www.sciencedirect.com/book/9780443190452/clinical-ethics-at-the-crossroads-of-genetic-and-reproductive-technologies>
+
+__Citation__:
+
+> Hostiuc, Sorin, ed. Clinical ethics at the crossroads of genetic and reproductive technologies. Elsevier, 2023.
+
+__Bibtex__:
+
+```
+@book{hostiuc2023clinical,
+  title={Clinical ethics at the crossroads of genetic and reproductive technologies},
+  author={Hostiuc, Sorin},
+  year={2023},
+  publisher={Elsevier}
+}
+```
+
+
+## Creating Future People: The Ethics Of Genetic Enhancement
+
+__Link__: <https://library.oapen.org/handle/20.500.12657/58965>
+
+__Citation__:
+
+> Anomaly, Jonathan. Creating future people: The ethics of genetic enhancement. Taylor & Francis, 2020.
+
+__Bibtex__:
+
+```
+@book{anomaly2020creating,
+  title={Creating future people: The ethics of genetic enhancement},
+  author={Anomaly, Jonathan},
+  year={2020},
+  publisher={Taylor \& Francis}
+}
+```
+
+
+
+## Enhancing Human Capacities
+
+__Link__: <https://onlinelibrary.wiley.com/doi/book/10.1002/9781444393552>
+
+__Citation__:
+
+> Savulescu, Julian, Ruud ter Meulen, and Guy Kahane. "Enhancing Human Capacities." (2011).
+
+__Bibtex__:
+
+```
+@article{savulescu2011enhancing,
+  title={Enhancing Human Capacities},
+  author={Savulescu, Julian and ter Meulen, Ruud and Kahane, Guy},
+  year={2011},
+  publisher={Wiley Online Library}
+}
+```
+
+## The End Of Sex And The Future Of Human Reproduction
+
+__Link__: <https://www.hup.harvard.edu/books/9780674984011>
+
+__Citation__:
+
+> Greely, Henry T. The end of sex and the future of human reproduction. Harvard University Press, 2016.
+
+__Bibtex__:
+
+```
+@book{greely2016end,
+  title={The end of sex and the future of human reproduction},
+  author={Greely, Henry T},
+  year={2016},
+  publisher={Harvard University Press}
+}
+```
