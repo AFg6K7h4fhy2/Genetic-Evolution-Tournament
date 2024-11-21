@@ -12,11 +12,6 @@ Administration includes:
 * Allocating prize funds to GET prize holders.
 * Continuing the tournament if Metaculus ceases to exist.
 
-* Answering questions the Genetic Evolution Tournament's [GitHub page](https://github.com/AFg6K7h4fhy2/Genetic-Evolution-Tournament) and [Metaculus page](https://www.metaculus.com/tournament/genetic/).
-* Resolving Genetic Evolution Tournament questions.
-* Allocating prize funds to tournament prize holders.
-* Continuing the tournament in edge cases, such if Metaculus were to no longer exist.
-
 To contact:
 
 * Primary Administrator: <AFg6K7h4fhy2@proton.me>
