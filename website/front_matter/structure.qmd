@@ -2,21 +2,47 @@
 
 **Overview**: _The author first explains how GET is set up, temporally speaking. Next, the author explains the size of GET's prize pool. The author closes with considerations for how these aforementioned topics may change._
 
-**Disclaimer**: _If this disclaimer is present, then the below sections are still being developed. Suggestions here would very much be appreciated. Please either make an issue [here](), [contact the author](), or fill out [this form]()._
+**Disclaimer**: _If this disclaimer is present, then the below sections are still being developed. Suggestions here would very much be appreciated. Please either make an issue [here](https://github.com/AFg6K7h4fhy2/Genetic-Evolution-Tournament/issues/new/choose), [contact the author](https://afg6k7h4fhy2.github.io/Genetic-Evolution-Tournament/front_matter/contact.html), or fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScarkulrQarQwt_TbZRTO-iAOv9Ki6zzxl4JjDxDBl2T5YqCQ/viewform?usp=sf_link)._
 
 ---
 
-Until further notice, the _Genetic Evolution Tournament_ maintains a prize pool of **15K USD**.
+GET is set up in stages:
 
-There exists some possibility that more funding might become available in the future, so percentages are given for prize quantities.
+* Tournament releases early 2025, median-estimate January 15th.
+* _Short-Term Insights_ section begins, lasts until 2029-12-31.
+* _Medium-Term Insights_ section begins 2030-01-01, lasts until 2034-12-31.
+* _Long-Term Insights_ section begins 2035-01-01, lasts until 2040-01-01.
+
+Notes on the stages:
+
+* GET is expected to initially have around 100 questions across 5 categories.
+* Future questions will likely be added, especially as need arises.
+* Different questions have different hidden periods, based on their resolve dates.
+* Questions belong to the stage in which they resolve or close.
+
+Prize structure:
+
+* GET is currently (2024-11-21) funded at PRIZE = 15K USD.
+* The prize pool might increase at some point in the future.
+* All stages have a commenting prize pool of 2/15 X PRIZE.
+* All stages have 10 commenting prizes.
+* Awardable comment periods:
+  * _Short-Term Insights_: [2025-01-01, 2027-12-31]
+  * _Medium-Term Insights_: [2025-01-01, 2032-12-31]
+  * _Long-Term Insights_: [2025-01-01, 2032-12-31]
+* Awards for comments in each stage are awarded at the end of the stage.
+* Forecasting accuracy awards for each stage are awarded at the end of the stage.
+* Some questions might be pushed out to a later stage, if interest exists for this.
+
+<!-- There exists some possibility that more funding might become available in the future, so percentages are given for prize quantities.
 
 This prize pool is allocated over several categories: {short-term, medium-term, long-term} X {commenting-prize, forecasting-accuracy-prize}.
 
 One purpose of the tournament is to generate scenarios and discussion surrounding futures involving human enhancement via DNA and reproductive technologies; as such, comments supporting this end are incentivized via commenting prizes.
 
-Another purpose of the tournament is to quantify uncertainty on and predict the occurrence of certain milestones in human enhancement via the aforementioned technologies; as such, accurate and truthful forecasting is incentivized via forecasting prizes.
+Another purpose of the tournament is to quantify uncertainty on and predict the occurrence of certain milestones in human enhancement via the aforementioned technologies; as such, accurate and truthful forecasting is incentivized via forecasting prizes. -->
 
-* Short-Term Insights (35% = 5.25K USD)
+<!-- * Short-Term Insights (35% = 5.25K USD)
   * Period: Years 1-5, i.e. 2025-2029
   * Commenting: 10, 0.2K USD prizes
     * Interval: [2025-01-01, 2027-12-31]
@@ -36,11 +62,13 @@ Another purpose of the tournament is to quantify uncertainty on and predict the 
     * Interval: [2025-01-01, 2032-12-31]
   * Forecasting: Questions in [2040, 2100)
     * Interval: [2025-01-01, 2032-12-31]
-  * Award-Date: 2040-01-01
+  * Award-Date: 2040-01-01 -->
 
-Restrictions on prizes:
+Prize restrictions:
 
-* No participant may receive no more than 1k USD in commenting prizes.
+* No one participant may receive greater than 1k USD in commenting prizes.
+
+Comment award criteria[^comment_criteria]:
 
 The author reproduces the OWID Tournament's considerations for comments to be included in the commenting prize:
 
@@ -49,3 +77,6 @@ The author reproduces the OWID Tournament's considerations for comments to be in
 -   The comment provides valuable information and reasoning
 -   The comment identifies mistakes in the community's reasoning or clearly explains why the author's forecast differs from the community's
 -   The comment describes connections between forecasts on different question groups, or inconsistencies between forecasts on different question groups
+-
+
+[^comment_criteria]: At present, the author is deferred to the criteria used in the [OWID tournament](https://www.metaculus.com/tournament/forecasting-Our-World-in-Data/), which is, to some degree, qualitative.
