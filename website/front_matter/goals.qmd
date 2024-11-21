@@ -1,1 +1,12 @@
 # Goals
+
+GET has, broadly, the following goals:
+
+* Generate questions on possible civilization impacts of current and near term DNA and reproductive technologies on humans.
+* Generate probabilistic human-judgment forecasts on the questions in the previous point.
+* Synthesis the probabilistic forecasts in the previous point to make quantitative statements on possible futures for humanity involving the use of DNA and reproductive technologies on humans, with an emphasis on human enhancement.
+* Communicate the questions, forecasts, and statements in previous points to individuals not participating in the tournament, via Internet posts and or publication(s).
+
+Administrators of GET seek to achieve these goals by:
+
+_section pending_

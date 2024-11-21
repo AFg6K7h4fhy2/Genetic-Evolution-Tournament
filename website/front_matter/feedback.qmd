@@ -1,1 +1,8 @@
 # Feedback
+
+To provide feedback, use one of the four avenues:
+
+* [GitHub Discussion Comment](https://github.com/AFg6K7h4fhy2/Genetic-Evolution-Tournament/discussions/28)
+* [GitHub Issue](https://github.com/AFg6K7h4fhy2/Genetic-Evolution-Tournament/issues/new/choose)
+* [Google Feedback Form]()
+* [Metaculus Discussion Comment]()

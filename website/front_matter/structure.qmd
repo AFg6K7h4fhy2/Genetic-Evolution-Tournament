@@ -1,8 +1,8 @@
-# Prize Structure
+# Structure
 
-**Overview**: _The author explains the size and nature of the Genetic Evolution Tournament's prize pool. Next, the author details the prize structure of the Genetic Evolution Tournament and outlines the reasoning for this._
+**Overview**: _The author first explains how GET is set up, temporally speaking. Next, the author explains the size of GET's prize pool. The author closes with considerations for how these aforementioned topics may change._
 
-**Disclaimer**: _Suggestions are very much appreciated on the prize structure._
+**Disclaimer**: _If this disclaimer is present, then the below sections are still being developed. Suggestions here would very much be appreciated. Please either make an issue [here](), [contact the author](), or fill out [this form]()._
 
 ---
 

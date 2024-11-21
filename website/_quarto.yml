@@ -10,8 +10,6 @@ book:
   favicon: favicon.jpg
   navbar:
     right:
-      - text: "Contact"
-        href: contact.qmd
       - icon: github
         href: "https://github.com/AFg6K7h4fhy2/Genetic-Evolution-Tournament"
   chapters:
@@ -20,6 +18,7 @@ book:
     - front_matter/goals.qmd
     - front_matter/hosting.qmd
     - front_matter/administration.qmd
+    - front_matter/contact.qmd
     - front_matter/structure.qmd
     - front_matter/scoring.qmd
     - front_matter/resolutions.qmd
