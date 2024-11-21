@@ -1,8 +1,16 @@
 # Administration
 
-The Genetic Evolution Tournament is administered primarily by Metaculus user [BellardiaLemonus](https://www.metaculus.com/accounts/profile/118777/) and secondly by [James Evans]().
+The Genetic Evolution Tournament (hereafter GET) is administered by:
+
+* [H559](https://www.metaculus.com/accounts/profile/118777/) (primary administrator)
+* James Evans (secondary administrator)
 
 Administration includes:
+
+* Answer participants' questions about GET.
+* Resolving GET forecasting questions.
+* Allocating prize funds to GET prize holders.
+* Continuing the tournament if Metaculus ceases to exist.
 
 * Answering questions the Genetic Evolution Tournament's [GitHub page](https://github.com/AFg6K7h4fhy2/Genetic-Evolution-Tournament) and [Metaculus page](https://www.metaculus.com/tournament/genetic/).
 * Resolving Genetic Evolution Tournament questions.
