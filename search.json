@@ -60,6 +60,72 @@
     ]
   },
   {
+    "objectID": "resources/books.html",
+    "href": "resources/books.html",
+    "title": "9  Books",
+    "section": "",
+    "text": "9.1 Choosing Children: Genes, Disability, And Design\nLink: https://academic.oup.com/book/11973\nCitation:\nBibtex:",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Books</span>"
+    ]
+  },
+  {
+    "objectID": "resources/books.html#choosing-children-genes-disability-and-design",
+    "href": "resources/books.html#choosing-children-genes-disability-and-design",
+    "title": "9  Books",
+    "section": "",
+    "text": "Glover, Jonathan. Choosing children: Genes, disability, and design. Oxford University Press, 2006.\n\n\n@book{glover2006choosing,\n  title={Choosing children: Genes, disability, and design},\n  author={Glover, Jonathan},\n  year={2006},\n  publisher={Oxford University Press}\n}",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Books</span>"
+    ]
+  },
+  {
+    "objectID": "resources/books.html#clinical-ethics-at-the-crossroads-of-genetic-and-reproductive-technologies",
+    "href": "resources/books.html#clinical-ethics-at-the-crossroads-of-genetic-and-reproductive-technologies",
+    "title": "9  Books",
+    "section": "9.2 Clinical ethics at the crossroads of genetic and reproductive technologies",
+    "text": "9.2 Clinical ethics at the crossroads of genetic and reproductive technologies\nLink: https://www.sciencedirect.com/book/9780443190452/clinical-ethics-at-the-crossroads-of-genetic-and-reproductive-technologies\nCitation:\n\nHostiuc, Sorin, ed. Clinical ethics at the crossroads of genetic and reproductive technologies. Elsevier, 2023.\n\nBibtex:\n@book{hostiuc2023clinical,\n  title={Clinical ethics at the crossroads of genetic and reproductive technologies},\n  author={Hostiuc, Sorin},\n  year={2023},\n  publisher={Elsevier}\n}",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Books</span>"
+    ]
+  },
+  {
+    "objectID": "resources/books.html#creating-future-people-the-ethics-of-genetic-enhancement",
+    "href": "resources/books.html#creating-future-people-the-ethics-of-genetic-enhancement",
+    "title": "9  Books",
+    "section": "9.3 Creating Future People: The Ethics Of Genetic Enhancement",
+    "text": "9.3 Creating Future People: The Ethics Of Genetic Enhancement\nLink: https://library.oapen.org/handle/20.500.12657/58965\nCitation:\n\nAnomaly, Jonathan. Creating future people: The ethics of genetic enhancement. Taylor & Francis, 2020.\n\nBibtex:\n@book{anomaly2020creating,\n  title={Creating future people: The ethics of genetic enhancement},\n  author={Anomaly, Jonathan},\n  year={2020},\n  publisher={Taylor \\& Francis}\n}",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Books</span>"
+    ]
+  },
+  {
+    "objectID": "resources/books.html#enhancing-human-capacities",
+    "href": "resources/books.html#enhancing-human-capacities",
+    "title": "9  Books",
+    "section": "9.4 Enhancing Human Capacities",
+    "text": "9.4 Enhancing Human Capacities\nLink: https://onlinelibrary.wiley.com/doi/book/10.1002/9781444393552\nCitation:\n\nSavulescu, Julian, Ruud ter Meulen, and Guy Kahane. “Enhancing Human Capacities.” (2011).\n\nBibtex:\n@article{savulescu2011enhancing,\n  title={Enhancing Human Capacities},\n  author={Savulescu, Julian and ter Meulen, Ruud and Kahane, Guy},\n  year={2011},\n  publisher={Wiley Online Library}\n}",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Books</span>"
+    ]
+  },
+  {
+    "objectID": "resources/books.html#the-end-of-sex-and-the-future-of-human-reproduction",
+    "href": "resources/books.html#the-end-of-sex-and-the-future-of-human-reproduction",
+    "title": "9  Books",
+    "section": "9.5 The End Of Sex And The Future Of Human Reproduction",
+    "text": "9.5 The End Of Sex And The Future Of Human Reproduction\nLink: https://www.hup.harvard.edu/books/9780674984011\nCitation:\n\nGreely, Henry T. The end of sex and the future of human reproduction. Harvard University Press, 2016.\n\nBibtex:\n@book{greely2016end,\n  title={The end of sex and the future of human reproduction},\n  author={Greely, Henry T},\n  year={2016},\n  publisher={Harvard University Press}\n}",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Books</span>"
+    ]
+  },
+  {
     "objectID": "appendix/additional_remarks.html",
     "href": "appendix/additional_remarks.html",
     "title": "14  Additional Remarks",
