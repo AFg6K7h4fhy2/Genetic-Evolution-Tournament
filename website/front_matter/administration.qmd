@@ -7,7 +7,7 @@ GET is administered by:
 
 Administration includes:
 
-* Answer participants' questions about GET.
+* Answering participants' questions about GET.
 * Resolving GET forecasting questions on Metaculus.
 * Allocating prize funds to GET prize holders.
 * Continuing the tournament if Metaculus ceases to exist.
@@ -18,4 +18,4 @@ Administration includes:
 To contact administrators directly:
 
 * Primary Administrator: (AFg6K7h4fhy2) + (@) + (proton) + (.) + (me)
-* Secondary Administrator: (keystrike) + (@) + (gmail) + (.) + (com)
+* Secondary Administrator: (keystroke) + (@) + (duck) + (.) + (com)

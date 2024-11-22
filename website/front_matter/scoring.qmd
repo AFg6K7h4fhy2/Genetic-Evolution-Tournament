@@ -8,6 +8,5 @@ For GET commenting prizes:
 
 For GET forecast scoring prizes:
 
-* Metaculus scoring algorithms are used.
+* Metaculus scoring algorithms will be used.
 * For information on Metaculus scoring, click [here](https://www.metaculus.com/help/scores-faq/).
-* For an ae

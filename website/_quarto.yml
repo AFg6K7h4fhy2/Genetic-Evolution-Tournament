@@ -20,8 +20,6 @@ book:
     - front_matter/contact.qmd
     - front_matter/structure.qmd
     - front_matter/scoring.qmd
-    - front_matter/resolutions.qmd
-    - front_matter/end_dates.qmd
     - front_matter/external_considerations.qmd
     - front_matter/feedback.qmd
     - part: "Q: Ethical, Legal, & Societal Implications"
@@ -61,7 +59,7 @@ format:
     toc: true
     toc-depth: 3
     number-sections: true
-    site-url: "https://AFg6K7h4fhy2.github.io/Genetic-Evolution-Tournament/"
+    site-url: "https://genetictournament.com/"
   pdf:
     documentclass: scrreprt
     pdf-engine: xelatex

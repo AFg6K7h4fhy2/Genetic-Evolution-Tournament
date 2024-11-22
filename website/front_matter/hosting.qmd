@@ -6,8 +6,5 @@ GET is publicly hosted on [Metaculus](https://www.metaculus.com/questions/):
 
 GET also has a GitHub page and a website:
 
-* GET Website: <https://afg6k7h4fhy2.github.io/Genetic-Evolution-Tournament/> [^website_domain]
+* GET Website: <https://genetictournament.com/>
 * GET GitHub Page: <https://github.com/AFg6K7h4fhy2/Genetic-Evolution-Tournament>
-
-
-[^website_domain]: The domain of the website will change soon, around late 2024! The author wishes to apologize for the unfortunately unmemorable URL.
