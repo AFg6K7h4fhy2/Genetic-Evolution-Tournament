@@ -4,136 +4,218 @@
     "href": "index.html",
     "title": "Genetic Evolution Tournament",
     "section": "",
-    "text": "Preface\nFrom the repository’s README:\nThis repository contains most of the source materials (not including references) for the Genetic Evolution Tournament (hereafter referred to as GET), a tournament broadly concerned with human genetic modification and reproduction protocols, for the purposes of both treatment and enhancement (predominantly enhancement). GET is being privately hosted on Metaculus. Eventually, Metaculus community forecasts made on GET questions will be ported to this repository and analyzed.\nNOTE: All feedback is welcome; however, feedback that enhances (1) the epistemics of claims made in this tournament’s questions (and other files), (2) the visibility and or utility of this tournament, or (3) other exact properties of the tournament (such as an additional question or an alteration in the structure) is particularly desired.",
+    "text": "Preface\nThe Genetic Evolution Tournament (GET) is a Metaculus human judgment forecasting tournament established to generate forecasts and scenarios pertaining to the use of genetic and reproductive technologies on humans for treatment and enhancement.\n\n\n\nFrom Wikipedia (2024-10-16): Before the play begins, Kronos, the ruler of the pre-Olympian gods (the Titans), had been overthrown by an insurgency led by Zeus. In that revolt, Prometheus had sided with Zeus. As the new king, Zeus intended to destroy and replace humankind. Prometheus frustrated this plan, showing humans the use of fire, which Prometheus had stolen. Prometheus also taught humanity the arts. For these acts of defiance, Zeus intends to punish Prometheus by chaining him to a rock in the mountains of Scythia.",
     "crumbs": [
       "Preface"
     ]
   },
   {
-    "objectID": "index.html#summary-introduction",
-    "href": "index.html#summary-introduction",
-    "title": "Genetic Evolution Tournament",
-    "section": "Summary Introduction",
-    "text": "Summary Introduction\n\nPrivate tournament on Metaculus\nFocuses on human gene modification and reproduction for enhancing human capabilities\n150 questions across 5 categories\n\nEthical, Legal, and Societal Implications\nTechnological Advancements and Clinical Applications\nRegulatory and Policy Developments\nAccessibility and Demographic Shifts\nHealthcare and Insurance System Evolution\n\n15K USD in prizes\n\n5k USD for forecasting accuracy\n10K USD for comments, in stages\n\nTentative end date of 2035\n\nTo view tournament files, please head to ./GET/source/",
-    "crumbs": [
-      "Preface"
-    ]
-  },
-  {
-    "objectID": "index.html#example-questions",
-    "href": "index.html#example-questions",
-    "title": "Genetic Evolution Tournament",
-    "section": "Example Questions",
-    "text": "Example Questions",
-    "crumbs": [
-      "Preface"
-    ]
-  },
-  {
-    "objectID": "index.html#extended-introduction",
-    "href": "index.html#extended-introduction",
-    "title": "Genetic Evolution Tournament",
-    "section": "Extended Introduction",
-    "text": "Extended Introduction\nNOTE: This description, which contains various inadequacies, is a minimally viable placeholder. Beyond the content detailing GET, there are many unsubstantiated claims. At some point, this tournament might be developed into a pre-print, in which case the author will more strongly evidence claims regarding the landscape of current capabilities for human enhancement and treatment via genetic and reproductive means. GET questions often contain references to research literature, but these are far from comprehensive. The Extended Introduction section is liable to change.\nThis introduction starts with some motivating remarks on possible future(s) for human reproduction and human genetic constitution. Following this, the author briefly describes GET, which is currently under development and due to be released on Metaculus (as a private tournament) sometime between now and August 2024.\nScientific progress in genetics, genetic engineering, and assisted-reproduction continues at a rapid and accelerating pace, with current technological capabilities far exceeding those imagined by researchers and policy-makers in biotechnology at the start of the 21st century.\nFrontier events in genetic engineering, such as the He Jiankui affair, have required all of humanity to consider scenarios and possibilities—ranging the gamut of expected value from fantastical to catastrophic—concerning the manipulation of human biology.\nAlthough extreme-fidelity human gene modification (as in precisely exacting desired genetic outcomes) or, more broadly, modification of human biology at a caliber similar to what we might expect to be employed in Brave New World or Gattaca, is yet unrealized, developments in the aforementioned fields steer evermore towards this capacity.\nFortunately, considerable anticipatory work in ethics and governance have coincided with scientific and technological progress in genetic and reproductive research fronts. Ethical work on directed use of technology on human biology has involved some degree of implicit and or explicit scenario analysis, but this analysis (in the author’s sampling of the literature) has infrequently employed forecasting.\nHandling anticipatory blind spots and reducing uncertainty on futures involving humanity’s possible genetic evolution via forecasting seems important for coordination between researchers, the public, and policy-makers in directing outcomes and safeguarding certain aspects of humanity’s future.\nDespite the expected outcome for GET being that most community traction will occur within the Effective Altruism, Less Wrong, and Metaculus communities, GET seeks to occupy the general niche of uncertainty reduction on futures involving varying levels of human-targeted DNA and assisted-reproduction technologies.\nGET will ideally contribute, via the forecasts collected across its lifespan, to a broader scenario modelling effort occurring across discussions on the future(s) of human genetics and reproduction. These forecasts and their analysis might inform individual and policy decision-making on the technologies and procedures involved in human genetics and reproduction.\nWith respect to the forecasting platform for GET, given both Metaculus’s status as a reputable human judgement forecast (HJF) aggregator (this is the author’s impression) and the author’s familiarity with the site (the author is biased in this way), Metaculus was chosen as the site to host GET. The particular language and norms adopted in public tournaments on Metaculus typically incentivize forecasters to make clear and well-reasoned comments and to forecast as honestly and as accurately as possible. For example Metaculus tournaments, see this page.\nGET currently consists of 5 question categories:\n\n\nEthical, Legal, and Societal Implications\n\n\nTechnological Advancements and Clinical Applications\n\n\nRegulatory and Policy Developments\n\n\nAccessibility and Demographic Shifts\n\n\nHealthcare and Insurance System Evolution\n\n\nEach category was intended to have between 15 and 25 questions; the intention was to between 75 to 125 questions in total.\nTo incentivize forecaster participation, there are prizes totaling 15K USD. Prizes are partitioned into a forecasting accuracy component (5k USD), with questions scored via Metaculus’s default scoring procedures (peer scores), and a commenting component (10k USD).\nOriginally, within the commenting component, 2.5k USD was allocated to comments on questions that are part of the forecasting accuracy component (shorter-term questions) and 7.5k USD was allocated to comments on longer-term questions. However, after some deliberation, a decision was made to break the commenting section of the tournament into 5 stages, each with 2k USD. The tournament is expect to last roughly 10 years. There is the possibility for additional funding altering the structure of the tournament.",
-    "crumbs": [
-      "Preface"
-    ]
-  },
-  {
-    "objectID": "dedication.html",
-    "href": "dedication.html",
-    "title": "Dedication",
+    "objectID": "front_matter/about.html",
+    "href": "front_matter/about.html",
+    "title": "1  About",
     "section": "",
-    "text": "This tournament is dedicated to all of humanity.",
+    "text": "1.1 Summary Introduction",
     "crumbs": [
-      "Dedication"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About</span>"
     ]
   },
   {
-    "objectID": "overview.html",
-    "href": "overview.html",
-    "title": "1  Overview",
+    "objectID": "front_matter/about.html#summary-introduction",
+    "href": "front_matter/about.html#summary-introduction",
+    "title": "1  About",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.",
+    "text": "A Metaculus tournament.\nFocuses on human enhancement and treatment via genetic and reproduction technologies.\nAround 150 questions across 5 categories\n\nEthical, Legal, and Societal Implications\nTechnological Advancements and Clinical Applications\nRegulatory and Policy Developments\nAccessibility and Demographic Shifts\nHealthcare and Insurance System Evolution\n\nAt present, 15K USD in prizes\nTentative end date of 2045",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Overview</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About</span>"
+    ]
+  },
+  {
+    "objectID": "front_matter/about.html#extended-introduction",
+    "href": "front_matter/about.html#extended-introduction",
+    "title": "1  About",
+    "section": "1.2 Extended Introduction",
+    "text": "1.2 Extended Introduction\nDisclaimer: This description, which possibly contains inadequacies, is a minimally viable placeholder. Beyond the content detailing GET, there are many unsubstantiated claims. At some point, this tournament might be published as research, in which case the author will more strongly evidence claims regarding the landscape of current capabilities for human enhancement and treatment via genetic and reproductive means. GET questions often contain references to research literature, but these are far from comprehensive. The Extended Introduction section is liable to change.\nOverview: This introduction starts with some motivating remarks on possible future(s) for human reproduction and human genetic constitution. Following this, the author briefly describes GET, which is currently under development and due to be released on Metaculus (as a public tournament).\nScientific progress in genetics, genetic engineering, and assisted-reproduction continues at a rapid and accelerating pace, with current technological capabilities far exceeding those imagined by researchers and policy-makers in biotechnology at the start of the 21st century.\nFrontier events in genetic engineering, such as the Jiankui He affair, have required all of humanity to consider scenarios and possibilities—ranging the gamut of expected value from fantastical to catastrophic—concerning the manipulation of human biology.\nAlthough extreme-fidelity human gene modification (as in precisely exacting desired genetic outcomes) or, more broadly, modification of human biology at a caliber similar to what we might expect to be employed in Brave New World or Gattaca, is yet unrealized, developments in the aforementioned fields steer evermore towards this capacity.\nFortunately, considerable anticipatory work in ethics and governance have coincided with scientific and technological progress in genetic and reproductive research fronts. Ethical work on directed use of technology on human biology has involved some degree of implicit and or explicit scenario analysis, but this analysis (in the author’s sampling of the literature) has infrequently employed forecasting.\nHandling anticipatory blind spots and reducing uncertainty on futures involving humanity’s possible genetic evolution via forecasting seems important for coordination between researchers, the public, and policy-makers in directing outcomes and safeguarding certain aspects of humanity’s future.\n\nDespite the expected outcome for GET being that most community traction will occur within the Effective Altruism, Less Wrong, and Metaculus communities, GET seeks to occupy the general niche of uncertainty reduction on futures involving varying levels of human-targeted DNA and assisted-reproduction technologies.\nGET will ideally contribute, via the forecasts collected across its lifespan, to a broader scenario modelling effort occurring across discussions on the future(s) of human genetics and reproduction. These forecasts and their analysis might inform individual and policy decision-making on the technologies and procedures involved in human genetics and reproduction.\n\nWith respect to the forecasting platform for GET, given both Metaculus’s status as a reputable human judgement forecast (HJF) aggregator (this is the author’s impression) and the author’s familiarity with the site (the author is biased in this way), Metaculus was chosen as the site to host GET. The particular language and norms adopted in public tournaments on Metaculus typically incentivize forecasters to make clear and well-reasoned comments and to forecast as honestly and as accurately as possible. For example Metaculus tournaments, see this page.\nGET currently consists of 5 question categories:\n\n\nEthical, Legal, and Societal Implications\n\n\nTechnological Advancements and Clinical Applications\n\n\nRegulatory and Policy Developments\n\n\nAccessibility and Demographic Shifts\n\n\nHealthcare and Insurance System Evolution\n\n\nEach category was intended to have between 15 and 25 questions; the intention was to between 75 to 125 questions in total.\nTo incentivize forecaster participation, there are prizes totaling 15K USD, though this may increase in the future. Prizes are partitioned into a forecasting accuracy component, with questions scored via Metaculus’s default scoring procedures (peer scores), and a commenting component.\nOriginally, within the commenting component, 2.5k USD was allocated to comments on questions that are part of the forecasting accuracy component (shorter-term questions) and 7.5k USD was allocated to comments on longer-term questions. However, after some deliberation, a decision was made to break the commenting section of the tournament into 3 stages, each with 2k USD. The tournament is expect to last roughly 20 years. There is the possibility for additional funding altering the structure of the tournament.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About</span>"
+    ]
+  },
+  {
+    "objectID": "front_matter/goals.html",
+    "href": "front_matter/goals.html",
+    "title": "2  Goals",
+    "section": "",
+    "text": "GET has, broadly, the following goals:\n\nGenerate questions on possible civilizational impacts of current and near term human genetic and reproductive technologies.\nGenerate probabilistic human-judgment forecasts on the questions in the previous point.\nSynthesize the probabilistic forecasts in the previous point to make quantitative statements on possible futures (scenarios) for humanity involving the use of human genetic and reproductive technologies, with an emphasis on human enhancement.\nCommunicate the questions, forecasts, and statements in previous points via Internet posts and or publication(s).\n\nAdministrators of GET seek to achieve these goals by:\n…Section pending, as this depends on the existence of forecasts and the feedback of experts and forecasters",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Goals</span>"
+    ]
+  },
+  {
+    "objectID": "front_matter/hosting.html",
+    "href": "front_matter/hosting.html",
+    "title": "3  Hosting",
+    "section": "",
+    "text": "GET is publicly hosted on Metaculus:\n\nMetaculus GET Page: https://www.metaculus.com/tournament/genetic/?\n\nGET also has a GitHub page and a website:\n\nGET Website: https://genetictournament.com/\nGET GitHub Page: https://github.com/AFg6K7h4fhy2/Genetic-Evolution-Tournament",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Hosting</span>"
+    ]
+  },
+  {
+    "objectID": "front_matter/administration.html",
+    "href": "front_matter/administration.html",
+    "title": "4  Administration",
+    "section": "",
+    "text": "GET is administered by:\n\nH559 (primary administrator)\nJames Evans (secondary administrator)\n\nAdministration includes:\n\nAnswering participants’ questions about GET.\nResolving GET forecasting questions on Metaculus.\nAllocating prize funds to GET prize holders.\nContinuing the tournament if Metaculus ceases to exist.\nWriting new questions and updating existing questions.\nAnnouncement of GET launch and new stages.\nAnalysis and communication of forecasts produced.\n\nTo contact administrators directly:\n\nPrimary Administrator: (AFg6K7h4fhy2) + (@) + (proton) + (.) + (me)\nSecondary Administrator: (keystroke) + (@) + (duck) + (.) + (com)",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Administration</span>"
+    ]
+  },
+  {
+    "objectID": "front_matter/contact.html",
+    "href": "front_matter/contact.html",
+    "title": "5  Contact",
+    "section": "",
+    "text": "To contact administrators directly:\n\nPrimary Administrator: (AFg6K7h4fhy2) + (@) + (proton) + (.) + (me)\nSecondary Administrator: (keystroke) + (@) + (duck) + (.) + (com)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Contact</span>"
+    ]
+  },
+  {
+    "objectID": "front_matter/structure.html#footnotes",
+    "href": "front_matter/structure.html#footnotes",
+    "title": "6  Structure",
+    "section": "",
+    "text": "For example, new technologies or questions conditional on other questions resolving.↩︎\nA hidden period on Metaculus is when the Community Forecast is not visible to forecasters. This allows for non-autocorrelated forecasting for at least some period of the question.↩︎\nAt present, the author is deferred to the criteria used in the OWID tournament, which is, to some degree, qualitative.↩︎",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Structure</span>"
+    ]
+  },
+  {
+    "objectID": "front_matter/scoring.html",
+    "href": "front_matter/scoring.html",
+    "title": "7  Scoring",
+    "section": "",
+    "text": "For GET commenting prizes:\n\nEvaluated by tournament administrators.\nFinal commenting prize selections may be reviewed additionally by Metaculus administrators.\n\nShould this occur, public notice will be provided.\n\n\nFor GET forecast scoring prizes:\n\nMetaculus scoring algorithms will be used.\nFor information on Metaculus scoring, click here.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Scoring</span>"
+    ]
+  },
+  {
+    "objectID": "front_matter/external_considerations.html",
+    "href": "front_matter/external_considerations.html",
+    "title": "8  External Considerations",
+    "section": "",
+    "text": "Concerning catastrophe:\n\nShould humanity go extinct* or experience a catastrophe* that results in the collapse of complex society* for over a continuous 5 year interval, all questions in the Genetic Evolution Tournament resolve as Ambiguous.\n\nConcerning the non-existence of Metaculus:\n\nGET administrators will self-host the 2024-2025 open-source version of Metaculus.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>External Considerations</span>"
+    ]
+  },
+  {
+    "objectID": "front_matter/feedback.html",
+    "href": "front_matter/feedback.html",
+    "title": "9  Feedback",
+    "section": "",
+    "text": "To provide feedback, use one of the four avenues:\n\nGitHub Discussion Comment\nGitHub Issue\nGoogle Feedback Form\nMetaculus Discussion Comment",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Feedback</span>"
     ]
   },
   {
     "objectID": "resources/books.html",
     "href": "resources/books.html",
-    "title": "9  Books",
+    "title": "15  Books",
     "section": "",
-    "text": "9.1 Choosing Children: Genes, Disability, And Design\nLink: https://academic.oup.com/book/11973\nCitation:\nBibtex:",
+    "text": "15.1 Choosing Children: Genes, Disability, And Design\nLink: https://academic.oup.com/book/11973\nCitation:\nBibtex:",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Books</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Books</span>"
     ]
   },
   {
     "objectID": "resources/books.html#choosing-children-genes-disability-and-design",
     "href": "resources/books.html#choosing-children-genes-disability-and-design",
-    "title": "9  Books",
+    "title": "15  Books",
     "section": "",
     "text": "Glover, Jonathan. Choosing children: Genes, disability, and design. Oxford University Press, 2006.\n\n\n@book{glover2006choosing,\n  title={Choosing children: Genes, disability, and design},\n  author={Glover, Jonathan},\n  year={2006},\n  publisher={Oxford University Press}\n}",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Books</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Books</span>"
     ]
   },
   {
     "objectID": "resources/books.html#clinical-ethics-at-the-crossroads-of-genetic-and-reproductive-technologies",
     "href": "resources/books.html#clinical-ethics-at-the-crossroads-of-genetic-and-reproductive-technologies",
-    "title": "9  Books",
-    "section": "9.2 Clinical ethics at the crossroads of genetic and reproductive technologies",
-    "text": "9.2 Clinical ethics at the crossroads of genetic and reproductive technologies\nLink: https://www.sciencedirect.com/book/9780443190452/clinical-ethics-at-the-crossroads-of-genetic-and-reproductive-technologies\nCitation:\n\nHostiuc, Sorin, ed. Clinical ethics at the crossroads of genetic and reproductive technologies. Elsevier, 2023.\n\nBibtex:\n@book{hostiuc2023clinical,\n  title={Clinical ethics at the crossroads of genetic and reproductive technologies},\n  author={Hostiuc, Sorin},\n  year={2023},\n  publisher={Elsevier}\n}",
+    "title": "15  Books",
+    "section": "15.2 Clinical ethics at the crossroads of genetic and reproductive technologies",
+    "text": "15.2 Clinical ethics at the crossroads of genetic and reproductive technologies\nLink: https://www.sciencedirect.com/book/9780443190452/clinical-ethics-at-the-crossroads-of-genetic-and-reproductive-technologies\nCitation:\n\nHostiuc, Sorin, ed. Clinical ethics at the crossroads of genetic and reproductive technologies. Elsevier, 2023.\n\nBibtex:\n@book{hostiuc2023clinical,\n  title={Clinical ethics at the crossroads of genetic and reproductive technologies},\n  author={Hostiuc, Sorin},\n  year={2023},\n  publisher={Elsevier}\n}",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Books</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Books</span>"
     ]
   },
   {
     "objectID": "resources/books.html#creating-future-people-the-ethics-of-genetic-enhancement",
     "href": "resources/books.html#creating-future-people-the-ethics-of-genetic-enhancement",
-    "title": "9  Books",
-    "section": "9.3 Creating Future People: The Ethics Of Genetic Enhancement",
-    "text": "9.3 Creating Future People: The Ethics Of Genetic Enhancement\nLink: https://library.oapen.org/handle/20.500.12657/58965\nCitation:\n\nAnomaly, Jonathan. Creating future people: The ethics of genetic enhancement. Taylor & Francis, 2020.\n\nBibtex:\n@book{anomaly2020creating,\n  title={Creating future people: The ethics of genetic enhancement},\n  author={Anomaly, Jonathan},\n  year={2020},\n  publisher={Taylor \\& Francis}\n}",
+    "title": "15  Books",
+    "section": "15.3 Creating Future People: The Ethics Of Genetic Enhancement",
+    "text": "15.3 Creating Future People: The Ethics Of Genetic Enhancement\nLink: https://library.oapen.org/handle/20.500.12657/58965\nCitation:\n\nAnomaly, Jonathan. Creating future people: The ethics of genetic enhancement. Taylor & Francis, 2020.\n\nBibtex:\n@book{anomaly2020creating,\n  title={Creating future people: The ethics of genetic enhancement},\n  author={Anomaly, Jonathan},\n  year={2020},\n  publisher={Taylor \\& Francis}\n}",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Books</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Books</span>"
     ]
   },
   {
     "objectID": "resources/books.html#enhancing-human-capacities",
     "href": "resources/books.html#enhancing-human-capacities",
-    "title": "9  Books",
-    "section": "9.4 Enhancing Human Capacities",
-    "text": "9.4 Enhancing Human Capacities\nLink: https://onlinelibrary.wiley.com/doi/book/10.1002/9781444393552\nCitation:\n\nSavulescu, Julian, Ruud ter Meulen, and Guy Kahane. “Enhancing Human Capacities.” (2011).\n\nBibtex:\n@article{savulescu2011enhancing,\n  title={Enhancing Human Capacities},\n  author={Savulescu, Julian and ter Meulen, Ruud and Kahane, Guy},\n  year={2011},\n  publisher={Wiley Online Library}\n}",
+    "title": "15  Books",
+    "section": "15.4 Enhancing Human Capacities",
+    "text": "15.4 Enhancing Human Capacities\nLink: https://onlinelibrary.wiley.com/doi/book/10.1002/9781444393552\nCitation:\n\nSavulescu, Julian, Ruud ter Meulen, and Guy Kahane. “Enhancing Human Capacities.” (2011).\n\nBibtex:\n@article{savulescu2011enhancing,\n  title={Enhancing Human Capacities},\n  author={Savulescu, Julian and ter Meulen, Ruud and Kahane, Guy},\n  year={2011},\n  publisher={Wiley Online Library}\n}",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Books</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Books</span>"
     ]
   },
   {
     "objectID": "resources/books.html#the-end-of-sex-and-the-future-of-human-reproduction",
     "href": "resources/books.html#the-end-of-sex-and-the-future-of-human-reproduction",
-    "title": "9  Books",
-    "section": "9.5 The End Of Sex And The Future Of Human Reproduction",
-    "text": "9.5 The End Of Sex And The Future Of Human Reproduction\nLink: https://www.hup.harvard.edu/books/9780674984011\nCitation:\n\nGreely, Henry T. The end of sex and the future of human reproduction. Harvard University Press, 2016.\n\nBibtex:\n@book{greely2016end,\n  title={The end of sex and the future of human reproduction},\n  author={Greely, Henry T},\n  year={2016},\n  publisher={Harvard University Press}\n}",
+    "title": "15  Books",
+    "section": "15.5 The End Of Sex And The Future Of Human Reproduction",
+    "text": "15.5 The End Of Sex And The Future Of Human Reproduction\nLink: https://www.hup.harvard.edu/books/9780674984011\nCitation:\n\nGreely, Henry T. The end of sex and the future of human reproduction. Harvard University Press, 2016.\n\nBibtex:\n@book{greely2016end,\n  title={The end of sex and the future of human reproduction},\n  author={Greely, Henry T},\n  year={2016},\n  publisher={Harvard University Press}\n}",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Books</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Books</span>"
+    ]
+  },
+  {
+    "objectID": "appendix/FAQ.html",
+    "href": "appendix/FAQ.html",
+    "title": "18  Frequently Asked Questions",
+    "section": "",
+    "text": "18.1 Why Is This On GitHub?",
+    "crumbs": [
+      "Appendix",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Frequently Asked Questions</span>"
+    ]
+  },
+  {
+    "objectID": "appendix/FAQ.html#why-is-this-on-github",
+    "href": "appendix/FAQ.html#why-is-this-on-github",
+    "title": "18  Frequently Asked Questions",
+    "section": "",
+    "text": "…will have Python code for analyzing Google Scholar and Trends signals on genetic and reproductive technologies.\n…involves versions, specifically for prize sequences and groups of questions that are released.\n…involves a website hosted via GitHub Pages.\n…operates by open source principles (open development).",
+    "crumbs": [
+      "Appendix",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Frequently Asked Questions</span>"
     ]
   },
   {
     "objectID": "appendix/additional_remarks.html",
     "href": "appendix/additional_remarks.html",
-    "title": "14  Additional Remarks",
+    "title": "21  Additional Remarks",
     "section": "",
     "text": "See here.\nSee here.",
     "crumbs": [
       "Appendix",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Additional Remarks</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Additional Remarks</span>"
     ]
   }
 ]
