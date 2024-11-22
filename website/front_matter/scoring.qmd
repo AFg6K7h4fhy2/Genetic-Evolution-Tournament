@@ -1,3 +1,13 @@
 # Scoring
 
-Commenting prizes are evaluated by tournament administrations, who take into account factors such as whether the comment met the ci
+For GET commenting prizes:
+
+* Evaluated by tournament administrators.
+* Final commenting prize selections _may_ be reviewed additionally by Metaculus administrators.
+  * Should this occur, public notice will be provided.
+
+For GET forecast scoring prizes:
+
+* Metaculus scoring algorithms are used.
+* For information on Metaculus scoring, click [here](https://www.metaculus.com/help/scores-faq/).
+* For an ae

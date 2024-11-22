@@ -4,7 +4,7 @@ GET is publicly hosted on [Metaculus](https://www.metaculus.com/questions/):
 
 * Metaculus GET Page: <https://www.metaculus.com/tournament/genetic/?>
 
-GET also has a GitHub page and website:
+GET also has a GitHub page and a website:
 
 * GET Website: <https://afg6k7h4fhy2.github.io/Genetic-Evolution-Tournament/> [^website_domain]
 * GET GitHub Page: <https://github.com/AFg6K7h4fhy2/Genetic-Evolution-Tournament>

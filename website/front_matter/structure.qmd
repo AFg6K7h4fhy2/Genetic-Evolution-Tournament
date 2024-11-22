@@ -38,7 +38,7 @@ Prize structure:
 
 This prize pool is allocated over several categories: {short-term, medium-term, long-term} X {commenting-prize, forecasting-accuracy-prize}.
 
-One purpose of the tournament is to generate scenarios and discussion surrounding futures involving human enhancement via DNA and reproductive technologies; as such, comments supporting this end are incentivized via commenting prizes.
+One purpose of the tournament is to generate scenarios and discussion surrounding futures involving human enhancement via genetic and reproductive technologies; as such, comments supporting this end are incentivized via commenting prizes.
 
 Another purpose of the tournament is to quantify uncertainty on and predict the occurrence of certain milestones in human enhancement via the aforementioned technologies; as such, accurate and truthful forecasting is incentivized via forecasting prizes. -->
 
@@ -67,6 +67,7 @@ Another purpose of the tournament is to quantify uncertainty on and predict the 
 Prize restrictions:
 
 * No one participant may receive greater than 1k USD in commenting prizes.
+* Administrators may not receive prizes on comments but may receive forecasting accuracy prizes.
 
 Comment award criteria[^comment_criteria]:
 
