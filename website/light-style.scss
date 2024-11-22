@@ -1,0 +1,111 @@
+/* Define font family variables */
+$tex-gyre-schola: "TeX Gyre Schola";
+$iosevka: "Iosevka";
+
+/* CUSTOM FONTS ##############################################################*/
+@font-face {
+  font-family: $tex-gyre-schola;
+  src: url("./assets/fonts/tex-gyre/texgyreschola-regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: $tex-gyre-schola;
+  src: url("./assets/fonts/tex-gyre/texgyreschola-bold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: $tex-gyre-schola;
+  src: url("./assets/fonts/tex-gyre/texgyreschola-italic.otf") format("opentype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: $tex-gyre-schola;
+  src: url("./assets/fonts/tex-gyre/texgyreschola-bolditalic.otf") format("opentype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: $iosevka;
+  src: url("./assets/fonts/iosevka/Iosevka-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: $iosevka;
+  src: url("./assets/fonts/iosevka/Iosevka-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: $iosevka;
+  src: url("./assets/fonts/iosevka/Iosevka-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+/*BODY #######################################################################*/
+
+/*-- scss:rules --*/
+body {
+  font-family: $tex-gyre-schola, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-variant: small-caps;
+}
+
+code {
+  font-family: $iosevka, monospace;
+}
+
+
+/*-- scss:defaults --*/
+
+// base document colors
+$body-bg: #FFFFF0;  // light yellow background
+$body-color: black;  // black for body text
+$link-color: #800000;  // maroon for links
+
+// code blocks
+// $code-block-bg-alpha: -0.1;  // slight transparency
+//$code-block-bg: gray;  // light background
+$code-block-border-left: #800000;  // black left border
+$code-block-border-left-style: solid;  // solid border
+$code-block-border-left-size: 2px;  // border size
+$code-block-padding-left: 1rem;  // padding between code and left border
+
+// inline code styling
+$code-bg: #cccccc;  // light background for inline code
+$code-color: black;  // maroon for inline code text
+
+.output {
+    color: black;
+  }
+
+// table of contents
+$toc-color: black;  // black for Table of Contents text
+$toc-active-border: #800000;  // maroon border for active TOC item
+$toc-inactive-border: #cccccc;  // light gray border for inactive TOC items
+
+// navbar and sidebar
+$navbar-bg: gray;  // yellowish background for the navbar
+$navbar-fg: white;  // white text color in the navbar
+$navbar-hl: #800000;  // maroon for navbar link hover
+
+
+$sidebar-bg: #FFFFF0;  // light background for sidebar
+$sidebar-fg: black;  // dark gray for sidebar text
+$sidebar-hl: #800000;  // maroon highlight color for sidebar links
+
+// footer
+$footer-bg: #FFFFF0;  // light background for footer
+$footer-fg: black;  // Dark gray for footer text
