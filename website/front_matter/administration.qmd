@@ -1,0 +1,21 @@
+# Administration
+
+GET is administered by:
+
+* [H559](https://www.metaculus.com/accounts/profile/118777/) (primary administrator)
+* James Evans (secondary administrator)
+
+Administration includes:
+
+* Answering participants' questions about GET.
+* Resolving GET forecasting questions on Metaculus.
+* Allocating prize funds to GET prize holders.
+* Continuing the tournament if Metaculus ceases to exist.
+* Writing new questions and updating existing questions.
+* Announcement of GET launch and new stages.
+* Analysis and communication of forecasts produced.
+
+To contact administrators directly:
+
+* Primary Administrator: (AFg6K7h4fhy2) + (@) + (proton) + (.) + (me)
+* Secondary Administrator: (keystroke) + (@) + (duck) + (.) + (com)

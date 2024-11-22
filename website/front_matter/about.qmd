@@ -1,4 +1,6 @@
-# The Genetic Evolution Tournament
+# About
+
+This section comes directly from the repository's README...
 
 > _The Genetic Evolution Tournament (GET) is a Metaculus human judgment forecasting tournament established to generate forecasts and scenarios pertaining to the use of human genetic and reproductive technologies for treatment and enhancement._
 
@@ -71,13 +73,3 @@ Each category was intended to have between 15 and 25 questions; the intention wa
 To incentivize forecaster participation, there are prizes totaling 15K USD, though this may increase in the future. Prizes are partitioned into a forecasting accuracy component, with questions scored via Metaculus's default scoring procedures ([peer scores](https://www.metaculus.com/help/scores-faq/)), and a commenting component.
 
 Originally, within the commenting component, 2.5k USD was allocated to comments on questions that are part of the forecasting accuracy component (shorter-term questions) and 7.5k USD was allocated to comments on longer-term questions. However, after some deliberation, a decision was made to break the commenting section of the tournament into 3 stages, each with 2k USD. The tournament is expect to last roughly 20 years. There is the possibility for additional funding altering the structure of the tournament.
-
-<!-- Beyond aggregating forecasts and scenarios via GET's questions, a reach-goal of GET is the elicitation of some engagement (commentary and or participation) from figures in academia with expertise in the science and or regulation of the technologies and procedures that are part of the fields of human genetics, genetic engineering (genetic technology generally), and assisted-reproduction. Barring this outcome, the author is still moderately confident that GET can be impactful, conditional on the completion of a retrospective analysis of the forecasts and forecast-rationales (scenarios) engendered. -->
-
-<!-- Within the GET folder of this repository, there is, briefly, the following:
-
-* GET questions are in `questions`. Existing questions on Metaculus relevant to GET, along with decisions that were made regarding questions, are contained in this folder as well.
-* Links to articles, books, Wikipedia pages, LessWrong posts, and EA Forum posts relevant to GET are in `resources`.
-* The front matter of GET, including the overview, prize structure, scoring, expected resolutions, leaderboard utility, end date, problem resolution, extinction case, and feedback sections, is in `template`.
-* The `announcements` folder contains Pandoc Markdown content for announcement posts for GET that were made on LessWrong, the EA Forum, Substack, Reddit, Metaculus, and Discord.
-* The `visuals` folder contains images and data visualizations that came about through the creation of questions for GET. -->

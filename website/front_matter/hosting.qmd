@@ -1,1 +1,10 @@
 # Hosting
+
+GET is publicly hosted on [Metaculus](https://www.metaculus.com/questions/):
+
+* Metaculus GET Page: <https://www.metaculus.com/tournament/genetic/?>
+
+GET also has a GitHub page and a website:
+
+* GET Website: <https://genetictournament.com/>
+* GET GitHub Page: <https://github.com/AFg6K7h4fhy2/Genetic-Evolution-Tournament>
