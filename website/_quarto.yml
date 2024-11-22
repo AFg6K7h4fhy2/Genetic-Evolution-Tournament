@@ -42,6 +42,7 @@ book:
         - resources/wiki.qmd
     - part: Appendix
       chapters:
+        - appendix/FAQ.qmd
         - appendix/glossary.qmd
         - appendix/trends.qmd
         - appendix/additional_remarks.qmd
