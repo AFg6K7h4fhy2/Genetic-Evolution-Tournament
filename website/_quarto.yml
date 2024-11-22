@@ -5,7 +5,7 @@ project:
 book:
   title: "Genetic Evolution Tournament"
   page-footer: Copyright, [AFg6K7h4fhy2](https://github.com/AFg6K7h4fhy2)
-  date: "2024-10-16"
+  date: today
   favicon: favicon.jpg
   navbar:
     right:
