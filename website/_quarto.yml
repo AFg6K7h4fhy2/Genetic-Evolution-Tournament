@@ -53,13 +53,28 @@ bibliography: references.bib
 
 numbered: true
 
+
 format:
   html:
-    theme: darkly
-    css: styles.css
+    anchor-sections: true
+    smooth-scroll: true
     toc: true
     toc-depth: 3
     number-sections: true
+    link-external-icon: true
+    link-external-newwindow: true
+    html-math-method:
+      method: "mathjax"
+      url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+    theme:
+      light: ["light-style.scss"]
+      dark: ["dark-style.scss"]
+    highlight-style: zenburn
+    self-contained-math: true
+    code-tools: true
+    code-overflow: wrap
+    code-link: true
+    code-download: true
     site-url: "https://genetictournament.com/"
   pdf:
     documentclass: scrreprt
