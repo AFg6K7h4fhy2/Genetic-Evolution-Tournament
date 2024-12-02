@@ -4,25 +4,24 @@ project:
 
 book:
   title: "Genetic Evolution Tournament"
-  author: "AFg6K7h4fhy2"
-  description: "_The Genetic Evolution Tournament (hereafter referred to as GET), is a tournament concerned broadly with the use of genetic modification and reproduction protocols on humans, for the purposes of both treatment and enhancement, but predominantly enhancement._"
   page-footer: Copyright, [AFg6K7h4fhy2](https://github.com/AFg6K7h4fhy2)
-  date: "2024-10-16"
+  date: today
   favicon: favicon.jpg
   navbar:
     right:
-      - text: "Contact"
-        href: contact.qmd
       - icon: github
         href: "https://github.com/AFg6K7h4fhy2/Genetic-Evolution-Tournament"
   chapters:
     - index.qmd
-    - dedication.qmd
-    - acknowledgements.qmd
-    - overview.qmd
-    - aggregated_questions.qmd
-    - front_matter/structure.qmd
+    - front_matter/about.qmd
+    - front_matter/goals.qmd
     - front_matter/hosting.qmd
+    - front_matter/administration.qmd
+    - front_matter/contact.qmd
+    - front_matter/structure.qmd
+    - front_matter/scoring.qmd
+    - front_matter/external_considerations.qmd
+    - front_matter/feedback.qmd
     - part: "Q: Ethical, Legal, & Societal Implications"
       chapters:
         - question_group_01/introduction.qmd
@@ -43,6 +42,7 @@ book:
         - resources/wiki.qmd
     - part: Appendix
       chapters:
+        - appendix/FAQ.qmd
         - appendix/glossary.qmd
         - appendix/trends.qmd
         - appendix/additional_remarks.qmd
@@ -53,14 +53,29 @@ bibliography: references.bib
 
 numbered: true
 
+
 format:
   html:
-    theme: darkly
-    css: styles.css
+    anchor-sections: true
+    smooth-scroll: true
     toc: true
     toc-depth: 3
     number-sections: true
-    site-url: "https://AFg6K7h4fhy2.github.io/Genetic-Evolution-Tournament/"
+    link-external-icon: true
+    link-external-newwindow: true
+    html-math-method:
+      method: "mathjax"
+      url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+    theme:
+      light: ["light-style.scss"]
+      dark: ["dark-style.scss"]
+    highlight-style: zenburn
+    self-contained-math: true
+    code-tools: true
+    code-overflow: wrap
+    code-link: true
+    code-download: true
+    site-url: "https://genetictournament.com/"
   pdf:
     documentclass: scrreprt
     pdf-engine: xelatex

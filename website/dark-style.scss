@@ -1,0 +1,108 @@
+/* Define font family variables */
+$tex-gyre-schola: "TeX Gyre Schola";
+$iosevka: "Iosevka";
+
+/* CUSTOM FONTS ##############################################################*/
+@font-face {
+  font-family: $tex-gyre-schola;
+  src: url("./assets/fonts/tex-gyre/texgyreschola-regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: $tex-gyre-schola;
+  src: url("./assets/fonts/tex-gyre/texgyreschola-bold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: $tex-gyre-schola;
+  src: url("./assets/fonts/tex-gyre/texgyreschola-italic.otf") format("opentype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: $tex-gyre-schola;
+  src: url("./assets/fonts/tex-gyre/texgyreschola-bolditalic.otf") format("opentype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: $iosevka;
+  src: url("./assets/fonts/iosevka/Iosevka-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: $iosevka;
+  src: url("./assets/fonts/iosevka/Iosevka-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: $iosevka;
+  src: url("./assets/fonts/iosevka/Iosevka-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+/*BODY #######################################################################*/
+
+/*-- scss:rules --*/
+body {
+  font-family: $tex-gyre-schola, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-variant: small-caps;
+}
+
+code {
+  font-family: $iosevka, monospace;
+}
+
+/*-- scss:defaults --*/
+
+// base  colors
+$body-bg: black;  // black background for the page
+$body-color: #f7f7f7;  // light text for contrast
+$link-color: #800000;  // maroon for links (bright contrast)
+
+$code-bg: gray;  // dark background for inline code
+$code-color: #f7f7f7;  // white text for inline code to make it stand out
+
+.output {
+  color: white;
+}
+
+// code blocks
+// $code-block-bg-alpha: -0.2;  // slight transparency on code block background
+// $code-block-bg: #2c2c2c;  // dark background for code blocks
+$code-block-border-left: #800000;  // maroon left border for code blocks
+$code-block-border-left-style: solid;  // solid border style
+$code-block-border-left-size: 2px;  // border size
+$code-block-padding-left: 1rem;  //padding between code and left border
+
+// table of contents
+$toc-color: #f7f7f7;  // light gray for Table of Contents text
+$toc-active-border: #800000;  // maroon border for active TOC item
+$toc-inactive-border: #555555;  // dark gray border for inactive TOC items
+
+// navbar and sidebar
+$navbar-bg: black;  // dark background for the navbar
+$navbar-fg: #f7f7f7;  // light gray text color in the navbar
+$navbar-hl: #800000;  // maroon for navbar link hover
+
+$sidebar-bg: black;  // dark background for sidebar
+$sidebar-fg: #e0e0e0;  // light gray text in the sidebar
+$sidebar-hl: #800000;  //maroon highlight color for sidebar links
+
+// footer
+$footer-bg: black;  // dark background for footer
+$footer-fg: #f7f7f7;  // Light gray text for footer

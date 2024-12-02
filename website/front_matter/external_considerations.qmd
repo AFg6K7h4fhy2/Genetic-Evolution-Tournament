@@ -1,0 +1,9 @@
+# External Considerations
+
+Concerning catastrophe:
+
+> Should humanity go extinct* or experience a catastrophe* that results in the collapse of complex society* for over a continuous 5 year interval, all questions in the _Genetic Evolution Tournament_ resolve as **Ambiguous**.
+
+Concerning the non-existence of Metaculus:
+
+* GET administrators will self-host the 2024-2025 [open-source version of Metaculus](https://github.com/Metaculus/metaculus).
