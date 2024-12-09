@@ -13,6 +13,8 @@ book:
         href: "https://github.com/AFg6K7h4fhy2/Genetic-Evolution-Tournament"
   chapters:
     - index.qmd
+    - dedication.qmd
+    - acknowledgements.qmd
     - front_matter/about.qmd
     - front_matter/goals.qmd
     - front_matter/hosting.qmd
