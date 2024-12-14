@@ -1,4 +1,4 @@
-# When will the first law be enacted anywhere in the world that legally permits the genetic modification of the following human traits?
+# How many lawsuits will be filed in Western countries against companies offering in-vitro fertilization (IVF) services that screen for the following traits?
 
 * Intelligence
 * Longevity
@@ -17,6 +17,7 @@
 * Empathy
 * Aggression
 * Morality
+
 
 ## Background Information
 
