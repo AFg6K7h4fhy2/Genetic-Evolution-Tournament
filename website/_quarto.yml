@@ -24,8 +24,17 @@ book:
     - front_matter/feedback.qmd
     - part: "Q: Ethical, Legal, & Societal Implications"
       chapters:
-        - question_group_01/introduction.qmd
-        - question_group_01/question_g01_01.qmd
+        - q_ELSI/introduction.qmd
+        - q_ELSI/q_ELSI_01.qmd
+        - q_ELSI/q_ELSI_02.qmd
+        - q_ELSI/q_ELSI_03.qmd
+        - q_ELSI/q_ELSI_04.qmd
+        - q_ELSI/q_ELSI_05.qmd
+        - q_ELSI/q_ELSI_06.qmd
+        - q_ELSI/q_ELSI_07.qmd
+        - q_ELSI/q_ELSI_08.qmd
+        - q_ELSI/q_ELSI_09.qmd
+        - q_ELSI/q_ELSI_10.qmd
     - part: "Q: Technological Advancements & Clinical Applications"
     - part: "Q: Regulatory & Policy Developments"
     - part: "Q: Accessibility & Demographic Shifts"
