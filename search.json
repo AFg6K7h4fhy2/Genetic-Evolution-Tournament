@@ -14,7 +14,7 @@
     "href": "front_matter/about.html",
     "title": "1  About",
     "section": "",
-    "text": "1.1 Summary Introduction",
+    "text": "1.1 Summary Introduction\nThis section comes directly from the repository’s README…\nHosting\nContact:\nOn Feedback: All feedback is welcome; however, feedback that enhances\nis particularly desired.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>About</span>"
     ]
@@ -80,6 +80,16 @@
     ]
   },
   {
+    "objectID": "front_matter/structure.html",
+    "href": "front_matter/structure.html",
+    "title": "6  Structure",
+    "section": "",
+    "text": "Overview: The author first explains how GET is set up, temporally speaking. Next, the author explains the size of GET’s prize pool. The author closes with considerations for how these aforementioned topics may change.\nDisclaimer: If this disclaimer is present, then the below sections are still being developed. Suggestions here would very much be appreciated. Please either make an issue here, contact the author, or fill out this form.\nGET is set up in stages:\nNotes on the stages:\nPrize structure:\nPrize restrictions:\nComment award criteria3:",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Structure</span>"
+    ]
+  },
+  {
     "objectID": "front_matter/structure.html#footnotes",
     "href": "front_matter/structure.html#footnotes",
     "title": "6  Structure",
@@ -120,102 +130,432 @@
     ]
   },
   {
+    "objectID": "q_ELSI/q_ELSI_01.html",
+    "href": "q_ELSI/q_ELSI_01.html",
+    "title": "11  When will the first law be enacted anywhere in the world that legally permits the genetic modification of the following human traits?",
+    "section": "",
+    "text": "11.1 Background Information\nAny legal doctrine must be explicit permissive of the genetic modification.",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>When will the first law be enacted anywhere in the world that legally permits the genetic modification of the following human traits?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_01.html#background-information",
+    "href": "q_ELSI/q_ELSI_01.html#background-information",
+    "title": "11  When will the first law be enacted anywhere in the world that legally permits the genetic modification of the following human traits?",
+    "section": "",
+    "text": "11.1.1 Fine Print",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>When will the first law be enacted anywhere in the world that legally permits the genetic modification of the following human traits?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_01.html#resolution-criteria",
+    "href": "q_ELSI/q_ELSI_01.html#resolution-criteria",
+    "title": "11  When will the first law be enacted anywhere in the world that legally permits the genetic modification of the following human traits?",
+    "section": "11.2 Resolution Criteria",
+    "text": "11.2 Resolution Criteria",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>When will the first law be enacted anywhere in the world that legally permits the genetic modification of the following human traits?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_02.html",
+    "href": "q_ELSI/q_ELSI_02.html",
+    "title": "12  When will the next individual(s) be imprisoned for genetically modifying a person or people?",
+    "section": "",
+    "text": "12.1 Background Information",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>When will the next individual(s) be imprisoned for genetically modifying a person or people?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_02.html#background-information",
+    "href": "q_ELSI/q_ELSI_02.html#background-information",
+    "title": "12  When will the next individual(s) be imprisoned for genetically modifying a person or people?",
+    "section": "",
+    "text": "12.1.1 Fine Print",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>When will the next individual(s) be imprisoned for genetically modifying a person or people?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_02.html#resolution-criteria",
+    "href": "q_ELSI/q_ELSI_02.html#resolution-criteria",
+    "title": "12  When will the next individual(s) be imprisoned for genetically modifying a person or people?",
+    "section": "12.2 Resolution Criteria",
+    "text": "12.2 Resolution Criteria",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>When will the next individual(s) be imprisoned for genetically modifying a person or people?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_03.html",
+    "href": "q_ELSI/q_ELSI_03.html",
+    "title": "13  How many lawsuits will be filed in the United States against companies offering in-vitro fertilization (IVF) services that screen for the following traits by 2030?",
+    "section": "",
+    "text": "14 How many lawsuits will be filed in the United States against companies offering in-vitro fertilization (IVF) services that screen for the following traits by 2050?",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>How many lawsuits will be filed in the United States against companies offering in-vitro fertilization (IVF) services that screen for the following traits by 2030?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_03.html#background-information",
+    "href": "q_ELSI/q_ELSI_03.html#background-information",
+    "title": "13  How many lawsuits will be filed in the United States against companies offering in-vitro fertilization (IVF) services that screen for the following traits by 2030?",
+    "section": "14.1 Background Information",
+    "text": "14.1 Background Information\n\n14.1.1 Fine Print",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>How many lawsuits will be filed in the United States against companies offering in-vitro fertilization (IVF) services that screen for the following traits by 2030?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_03.html#resolution-criteria",
+    "href": "q_ELSI/q_ELSI_03.html#resolution-criteria",
+    "title": "13  How many lawsuits will be filed in the United States against companies offering in-vitro fertilization (IVF) services that screen for the following traits by 2030?",
+    "section": "14.2 Resolution Criteria",
+    "text": "14.2 Resolution Criteria",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>How many lawsuits will be filed in the United States against companies offering in-vitro fertilization (IVF) services that screen for the following traits by 2030?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_04.html",
+    "href": "q_ELSI/q_ELSI_04.html",
+    "title": "14  How many humans globally will be prenatally genetically modified in the following years?",
+    "section": "",
+    "text": "14.1 Background Information",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>How many humans globally will be prenatally genetically modified in the following years?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_04.html#background-information",
+    "href": "q_ELSI/q_ELSI_04.html#background-information",
+    "title": "14  How many humans globally will be prenatally genetically modified in the following years?",
+    "section": "",
+    "text": "14.1.1 Fine Print",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>How many humans globally will be prenatally genetically modified in the following years?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_04.html#resolution-criteria",
+    "href": "q_ELSI/q_ELSI_04.html#resolution-criteria",
+    "title": "14  How many humans globally will be prenatally genetically modified in the following years?",
+    "section": "14.2 Resolution Criteria",
+    "text": "14.2 Resolution Criteria",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>How many humans globally will be prenatally genetically modified in the following years?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_05.html",
+    "href": "q_ELSI/q_ELSI_05.html",
+    "title": "15  When will the next individual(s) be fined or imprisoned for seeking to have their newborn genetically modified?",
+    "section": "",
+    "text": "15.1 Background Information",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>When will the next individual(s) be fined or imprisoned for seeking to have their newborn genetically modified?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_05.html#background-information",
+    "href": "q_ELSI/q_ELSI_05.html#background-information",
+    "title": "15  When will the next individual(s) be fined or imprisoned for seeking to have their newborn genetically modified?",
+    "section": "",
+    "text": "15.1.1 Fine Print",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>When will the next individual(s) be fined or imprisoned for seeking to have their newborn genetically modified?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_05.html#resolution-criteria",
+    "href": "q_ELSI/q_ELSI_05.html#resolution-criteria",
+    "title": "15  When will the next individual(s) be fined or imprisoned for seeking to have their newborn genetically modified?",
+    "section": "15.2 Resolution Criteria",
+    "text": "15.2 Resolution Criteria",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>When will the next individual(s) be fined or imprisoned for seeking to have their newborn genetically modified?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_06.html",
+    "href": "q_ELSI/q_ELSI_06.html",
+    "title": "16  Which nations will have over 1000 genetically modified newborns by the year 2050?",
+    "section": "",
+    "text": "17 Which nations will have over 1000 genetically modified newborns by the year 2040?",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Which nations will have over 1000 genetically modified newborns by the year 2050?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_06.html#background-information",
+    "href": "q_ELSI/q_ELSI_06.html#background-information",
+    "title": "16  Which nations will have over 1000 genetically modified newborns by the year 2050?",
+    "section": "19.1 Background Information",
+    "text": "19.1 Background Information\n\n19.1.1 Fine Print",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Which nations will have over 1000 genetically modified newborns by the year 2050?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_06.html#resolution-criteria",
+    "href": "q_ELSI/q_ELSI_06.html#resolution-criteria",
+    "title": "16  Which nations will have over 1000 genetically modified newborns by the year 2050?",
+    "section": "19.2 Resolution Criteria",
+    "text": "19.2 Resolution Criteria",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Which nations will have over 1000 genetically modified newborns by the year 2050?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_07.html",
+    "href": "q_ELSI/q_ELSI_07.html",
+    "title": "17  Which nations will have over 5% of their newborns genetically modified by the year 2050?",
+    "section": "",
+    "text": "18 Which nations will have over 5% genetically modified newborns by the year 2040?",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Which nations will have over 5% of their newborns genetically modified by the year 2050?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_07.html#background-information",
+    "href": "q_ELSI/q_ELSI_07.html#background-information",
+    "title": "17  Which nations will have over 5% of their newborns genetically modified by the year 2050?",
+    "section": "20.1 Background Information",
+    "text": "20.1 Background Information\n\n20.1.1 Fine Print",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Which nations will have over 5% of their newborns genetically modified by the year 2050?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_07.html#resolution-criteria",
+    "href": "q_ELSI/q_ELSI_07.html#resolution-criteria",
+    "title": "17  Which nations will have over 5% of their newborns genetically modified by the year 2050?",
+    "section": "20.2 Resolution Criteria",
+    "text": "20.2 Resolution Criteria",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Which nations will have over 5% of their newborns genetically modified by the year 2050?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_08.html",
+    "href": "q_ELSI/q_ELSI_08.html",
+    "title": "18  Income Inequality Between",
+    "section": "",
+    "text": "18.1 Background Information",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Income Inequality Between</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_08.html#background-information",
+    "href": "q_ELSI/q_ELSI_08.html#background-information",
+    "title": "18  Income Inequality Between",
+    "section": "",
+    "text": "18.1.1 Fine Print",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Income Inequality Between</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_08.html#resolution-criteria",
+    "href": "q_ELSI/q_ELSI_08.html#resolution-criteria",
+    "title": "18  Income Inequality Between",
+    "section": "18.2 Resolution Criteria",
+    "text": "18.2 Resolution Criteria",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Income Inequality Between</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_09.html",
+    "href": "q_ELSI/q_ELSI_09.html",
+    "title": "19  How many companies will there be offering IVF services in the United States in the following years?",
+    "section": "",
+    "text": "19.1 Background Information",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>How many companies will there be offering IVF services in the United States in the following years?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_09.html#background-information",
+    "href": "q_ELSI/q_ELSI_09.html#background-information",
+    "title": "19  How many companies will there be offering IVF services in the United States in the following years?",
+    "section": "",
+    "text": "19.1.1 Fine Print",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>How many companies will there be offering IVF services in the United States in the following years?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_09.html#resolution-criteria",
+    "href": "q_ELSI/q_ELSI_09.html#resolution-criteria",
+    "title": "19  How many companies will there be offering IVF services in the United States in the following years?",
+    "section": "19.2 Resolution Criteria",
+    "text": "19.2 Resolution Criteria",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>How many companies will there be offering IVF services in the United States in the following years?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_10.html",
+    "href": "q_ELSI/q_ELSI_10.html",
+    "title": "20  How many companies will there be offering prenatal genetic modification services in the United States in the following years?",
+    "section": "",
+    "text": "21 Revenue Totals In The Following Years For IVF Companies?",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>How many companies will there be offering prenatal genetic modification services in the United States in the following years?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_10.html#background-information",
+    "href": "q_ELSI/q_ELSI_10.html#background-information",
+    "title": "20  How many companies will there be offering prenatal genetic modification services in the United States in the following years?",
+    "section": "26.1 Background Information",
+    "text": "26.1 Background Information\n\n26.1.1 Fine Print",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>How many companies will there be offering prenatal genetic modification services in the United States in the following years?</span>"
+    ]
+  },
+  {
+    "objectID": "q_ELSI/q_ELSI_10.html#resolution-criteria",
+    "href": "q_ELSI/q_ELSI_10.html#resolution-criteria",
+    "title": "20  How many companies will there be offering prenatal genetic modification services in the United States in the following years?",
+    "section": "26.2 Resolution Criteria",
+    "text": "26.2 Resolution Criteria",
+    "crumbs": [
+      "Q: Ethical, Legal, & Societal Implications",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>How many companies will there be offering prenatal genetic modification services in the United States in the following years?</span>"
+    ]
+  },
+  {
     "objectID": "resources/books.html",
     "href": "resources/books.html",
-    "title": "15  Books",
+    "title": "24  Books",
     "section": "",
-    "text": "15.1 Choosing Children: Genes, Disability, And Design\nLink: https://academic.oup.com/book/11973\nCitation:\nBibtex:",
+    "text": "24.1 Choosing Children: Genes, Disability, And Design\nThe author, in working on this tournament, has found the following books useful. At some point, links might be added connecting the author’s notes to these books.\nLink: https://academic.oup.com/book/11973\nCitation:\nBibtex:",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Books</span>"
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Books</span>"
     ]
   },
   {
     "objectID": "resources/books.html#choosing-children-genes-disability-and-design",
     "href": "resources/books.html#choosing-children-genes-disability-and-design",
-    "title": "15  Books",
+    "title": "24  Books",
     "section": "",
     "text": "Glover, Jonathan. Choosing children: Genes, disability, and design. Oxford University Press, 2006.\n\n\n@book{glover2006choosing,\n  title={Choosing children: Genes, disability, and design},\n  author={Glover, Jonathan},\n  year={2006},\n  publisher={Oxford University Press}\n}",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Books</span>"
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Books</span>"
     ]
   },
   {
     "objectID": "resources/books.html#clinical-ethics-at-the-crossroads-of-genetic-and-reproductive-technologies",
     "href": "resources/books.html#clinical-ethics-at-the-crossroads-of-genetic-and-reproductive-technologies",
-    "title": "15  Books",
-    "section": "15.2 Clinical ethics at the crossroads of genetic and reproductive technologies",
-    "text": "15.2 Clinical ethics at the crossroads of genetic and reproductive technologies\nLink: https://www.sciencedirect.com/book/9780443190452/clinical-ethics-at-the-crossroads-of-genetic-and-reproductive-technologies\nCitation:\n\nHostiuc, Sorin, ed. Clinical ethics at the crossroads of genetic and reproductive technologies. Elsevier, 2023.\n\nBibtex:\n@book{hostiuc2023clinical,\n  title={Clinical ethics at the crossroads of genetic and reproductive technologies},\n  author={Hostiuc, Sorin},\n  year={2023},\n  publisher={Elsevier}\n}",
+    "title": "24  Books",
+    "section": "24.2 Clinical ethics at the crossroads of genetic and reproductive technologies",
+    "text": "24.2 Clinical ethics at the crossroads of genetic and reproductive technologies\nLink: https://www.sciencedirect.com/book/9780443190452/clinical-ethics-at-the-crossroads-of-genetic-and-reproductive-technologies\nCitation:\n\nHostiuc, Sorin, ed. Clinical ethics at the crossroads of genetic and reproductive technologies. Elsevier, 2023.\n\nBibtex:\n@book{hostiuc2023clinical,\n  title={Clinical ethics at the crossroads of genetic and reproductive technologies},\n  author={Hostiuc, Sorin},\n  year={2023},\n  publisher={Elsevier}\n}",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Books</span>"
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Books</span>"
     ]
   },
   {
     "objectID": "resources/books.html#creating-future-people-the-ethics-of-genetic-enhancement",
     "href": "resources/books.html#creating-future-people-the-ethics-of-genetic-enhancement",
-    "title": "15  Books",
-    "section": "15.3 Creating Future People: The Ethics Of Genetic Enhancement",
-    "text": "15.3 Creating Future People: The Ethics Of Genetic Enhancement\nLink: https://library.oapen.org/handle/20.500.12657/58965\nCitation:\n\nAnomaly, Jonathan. Creating future people: The ethics of genetic enhancement. Taylor & Francis, 2020.\n\nBibtex:\n@book{anomaly2020creating,\n  title={Creating future people: The ethics of genetic enhancement},\n  author={Anomaly, Jonathan},\n  year={2020},\n  publisher={Taylor \\& Francis}\n}",
+    "title": "24  Books",
+    "section": "24.3 Creating Future People: The Ethics Of Genetic Enhancement",
+    "text": "24.3 Creating Future People: The Ethics Of Genetic Enhancement\nLink: https://library.oapen.org/handle/20.500.12657/58965\nCitation:\n\nAnomaly, Jonathan. Creating future people: The ethics of genetic enhancement. Taylor & Francis, 2020.\n\nBibtex:\n@book{anomaly2020creating,\n  title={Creating future people: The ethics of genetic enhancement},\n  author={Anomaly, Jonathan},\n  year={2020},\n  publisher={Taylor \\& Francis}\n}",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Books</span>"
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Books</span>"
     ]
   },
   {
     "objectID": "resources/books.html#enhancing-human-capacities",
     "href": "resources/books.html#enhancing-human-capacities",
-    "title": "15  Books",
-    "section": "15.4 Enhancing Human Capacities",
-    "text": "15.4 Enhancing Human Capacities\nLink: https://onlinelibrary.wiley.com/doi/book/10.1002/9781444393552\nCitation:\n\nSavulescu, Julian, Ruud ter Meulen, and Guy Kahane. “Enhancing Human Capacities.” (2011).\n\nBibtex:\n@article{savulescu2011enhancing,\n  title={Enhancing Human Capacities},\n  author={Savulescu, Julian and ter Meulen, Ruud and Kahane, Guy},\n  year={2011},\n  publisher={Wiley Online Library}\n}",
+    "title": "24  Books",
+    "section": "24.4 Enhancing Human Capacities",
+    "text": "24.4 Enhancing Human Capacities\nLink: https://onlinelibrary.wiley.com/doi/book/10.1002/9781444393552\nCitation:\n\nSavulescu, Julian, Ruud ter Meulen, and Guy Kahane. “Enhancing Human Capacities.” (2011).\n\nBibtex:\n@article{savulescu2011enhancing,\n  title={Enhancing Human Capacities},\n  author={Savulescu, Julian and ter Meulen, Ruud and Kahane, Guy},\n  year={2011},\n  publisher={Wiley Online Library}\n}",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Books</span>"
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Books</span>"
     ]
   },
   {
     "objectID": "resources/books.html#the-end-of-sex-and-the-future-of-human-reproduction",
     "href": "resources/books.html#the-end-of-sex-and-the-future-of-human-reproduction",
-    "title": "15  Books",
-    "section": "15.5 The End Of Sex And The Future Of Human Reproduction",
-    "text": "15.5 The End Of Sex And The Future Of Human Reproduction\nLink: https://www.hup.harvard.edu/books/9780674984011\nCitation:\n\nGreely, Henry T. The end of sex and the future of human reproduction. Harvard University Press, 2016.\n\nBibtex:\n@book{greely2016end,\n  title={The end of sex and the future of human reproduction},\n  author={Greely, Henry T},\n  year={2016},\n  publisher={Harvard University Press}\n}",
+    "title": "24  Books",
+    "section": "24.5 The End Of Sex And The Future Of Human Reproduction",
+    "text": "24.5 The End Of Sex And The Future Of Human Reproduction\nLink: https://www.hup.harvard.edu/books/9780674984011\nCitation:\n\nGreely, Henry T. The end of sex and the future of human reproduction. Harvard University Press, 2016.\n\nBibtex:\n@book{greely2016end,\n  title={The end of sex and the future of human reproduction},\n  author={Greely, Henry T},\n  year={2016},\n  publisher={Harvard University Press}\n}",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Books</span>"
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Books</span>"
     ]
   },
   {
     "objectID": "appendix/FAQ.html",
     "href": "appendix/FAQ.html",
-    "title": "18  Frequently Asked Questions",
+    "title": "27  Frequently Asked Questions",
     "section": "",
-    "text": "18.1 Why Is This On GitHub?",
+    "text": "27.1 Why Is This On GitHub?",
     "crumbs": [
       "Appendix",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Frequently Asked Questions</span>"
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Frequently Asked Questions</span>"
     ]
   },
   {
     "objectID": "appendix/FAQ.html#why-is-this-on-github",
     "href": "appendix/FAQ.html#why-is-this-on-github",
-    "title": "18  Frequently Asked Questions",
+    "title": "27  Frequently Asked Questions",
     "section": "",
     "text": "…will have Python code for analyzing Google Scholar and Trends signals on genetic and reproductive technologies.\n…involves versions, specifically for prize sequences and groups of questions that are released.\n…involves a website hosted via GitHub Pages.\n…operates by open source principles (open development).",
     "crumbs": [
       "Appendix",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Frequently Asked Questions</span>"
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Frequently Asked Questions</span>"
     ]
   },
   {
     "objectID": "appendix/additional_remarks.html",
     "href": "appendix/additional_remarks.html",
-    "title": "21  Additional Remarks",
+    "title": "30  Additional Remarks",
     "section": "",
     "text": "See here.\nSee here.",
     "crumbs": [
       "Appendix",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Additional Remarks</span>"
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>Additional Remarks</span>"
     ]
   }
 ]
