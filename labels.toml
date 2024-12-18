@@ -158,6 +158,11 @@ color = "cfd3d7"
 name = "visuals"
 description = "Adds or pertains to visualizations."
 
+[warnings]
+color = "cfd3d7"
+name = "warnings"
+description = "Adjustments to project to remove warnings."
+
 [website]
 color = "cfd3d7"
 name = "website"

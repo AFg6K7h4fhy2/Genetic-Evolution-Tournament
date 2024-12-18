@@ -1,0 +1,49 @@
+
+
+What traits can be modified?
+
+* Intelligence
+* Longevity
+* Height
+* Eye Color
+* Skin Color
+* Physical Strength
+* Disease Resistance
+* Cardiovascular Health
+* Metabolism
+* Pain Tolerance
+* Depression/Anxiety
+* Visual Acuity
+* Hair Color/Texture
+* Resistance To Addiction
+* Empathy
+* Aggression
+* Morality
+
+Societal implications (not including accessibility, demographic, or healthcare related topics) include:
+
+* Income inequality
+* National productivity / success
+* Election concern
+* National concerns (e.g. Gallup)
+* Parental expectations
+* Generational differences / stratification
+* Public trust in institutions / science
+* Religious influence / extent
+* Discrimination
+  * In workplace
+* Misuses?
+* Social pressures for usage
+* Marketing budgets by IVF, genetic modification
+
+Ethical implications include:
+
+* People's permissibility of a technology
+* Changes in human rights (freedom from, freedom to)
+* Changes in moral status
+* PEW research approvals
+
+In speaking to funder, convert critiques in speaking.
+
+
+Regulatory
