@@ -1,5 +1,10 @@
 
-#
+# What will be the average cost of using genetic modification services in the United States in 2020 US Inflation Adjusted USD in the following years?
+
+* 2040
+* 2050
+* 2075
+* 2100
 
 ## Background Information
 
@@ -8,3 +13,5 @@
 ### Fine Print
 
 ## Notes
+
+How to consider other nations for this question? It is conceivable that people might elect to go where they perform this illegally or inexpensively.
