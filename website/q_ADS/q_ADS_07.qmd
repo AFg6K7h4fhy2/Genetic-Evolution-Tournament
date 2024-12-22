@@ -1,6 +1,11 @@
 
 # How many companies will there be offering prenatal genetic modification services in the United States in the following years?
 
+* 2040
+* 2050
+* 2075
+* 2100
+
 ## Background Information
 
 ## Resolution Criteria
