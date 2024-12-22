@@ -1,15 +1,6 @@
-# Which nations will have over 5% of their newborns genetically modified by the year 2050?
-
-# Which nations will have over 5% genetically modified newborns by the year 2040?
-
-# Which nations will have over 5% genetically modified newborns by the year 2075?
-
-# Which nations will have over 5% genetically modified newborns by the year 2100?
-
-[* Nations](https://en.wikipedia.org/wiki/OECD#Member_countries)
+#
 
 ## Background Information
-
 
 ## Resolution Criteria
 

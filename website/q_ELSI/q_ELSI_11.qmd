@@ -1,5 +1,24 @@
 
-#
+# How many lawsuits will be filed in the United States against companies offering in-vitro fertilization (IVF) services that screen for the following traits by 2050?
+
+* Intelligence
+* Longevity
+* Height
+* Eye Color
+* Skin Color
+* Physical Strength
+* Disease Resistance
+* Cardiovascular Health
+* Metabolism
+* Pain Tolerance
+* Depression/Anxiety
+* Visual Acuity
+* Hair Color/Texture
+* Resistance To Addiction
+* Empathy
+* Aggression
+* Morality
+
 
 ## Background Information
 
@@ -8,3 +27,5 @@
 ### Fine Print
 
 ## Notes
+
+See also question `q_ELSI_03`, the 2030 version.
