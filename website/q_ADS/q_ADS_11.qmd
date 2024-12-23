@@ -27,4 +27,4 @@
 
 ## Notes
 
-The number of traits needs to be reduced.
+The number of traits needs to be reduced. For some questions, focusing on subset of traits with measured precident.
