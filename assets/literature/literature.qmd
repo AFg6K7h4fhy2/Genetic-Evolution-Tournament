@@ -1,0 +1,4 @@
+---
+title: Research Literature Relevant To The Genetic Evolution Tournament
+bibliography: references.bib
+---
