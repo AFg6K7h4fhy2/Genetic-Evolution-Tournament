@@ -1,3 +1,32 @@
+
+2025-03-05 (Wednesday):
+
+* Start off with 5 core nations:
+  * US
+  * China
+  * Russia
+  * Brazil
+  * India
+* These additional countries:
+  * South Africa
+  * Japan
+  * UK
+  * Germany
+  * Argentina
+  * Israel
+* The following look good for the time being:
+  * Glossary structure is seemingly good.
+  * The emails are seemingly good.
+* Include footnote in glossary about organizations whose glossaries are referenced.
+
+For next meeting:
+
+* Remove duplicates from questions.
+* Create a table of workshop questions.
+* Change the nations in the questions.
+* Get the Zotero HTML on the website.
+* Fill in the meta-glossary.
+
 2025-03-05 (Wednesday):
 
 * The author did the following:
