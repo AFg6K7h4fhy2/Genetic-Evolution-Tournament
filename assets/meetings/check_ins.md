@@ -1,4 +1,14 @@
-2025-02-28:
+2025-03-05 (Wednesday):
+
+* The author did the following:
+  * Emailed Metaculus with updates and questions
+  * Changed OECD nations to "the following nations".
+  * Created a meta-glossary.
+* The author failed to:
+  * Reduce the question count by removing duplicates.
+  * Further expand question backgrounds and resolutions.
+
+2025-02-28 (Friday):
 
 * Change OECD nations to be more representative of the global nation system.
   * Around 10 nations seems adequate, possibly more.
@@ -16,7 +26,7 @@
   * (1) Workshop questions.
   * (2) Metaculus email.
 
-2025-02-21:
+2025-02-21 (Friday):
 
 * How is the reader fairing in this world?
 * The situation with the author's job.
