@@ -1,0 +1,37 @@
+
+# How much more [trait] will individuals genetically modified for [trait] be than those who were not screened for [trait] in the following years?
+
+Years
+
+* 2040
+* 2050
+* 2075
+* 2100
+
+Traits
+
+* Intelligence
+* Longevity
+* Height
+* Eye Color
+* Skin Color
+* Physical Strength
+* Disease Resistance
+* Cardiovascular Health
+* Metabolism
+* Pain Tolerance
+* Depression/Anxiety
+* Visual Acuity
+* Hair Color/Texture
+* Resistance To Addiction
+* Empathy
+* Aggression
+* Morality
+
+## Background Information
+
+## Resolution Criteria
+
+### Fine Print
+
+## Notes

@@ -1,0 +1,27 @@
+
+# Notes
+
+* That which is needed for polygenic screening
+  * Open source code available?
+* That which is needed for genetic modification
+  * Requires clinic?
+* Cost of [gene therapy, genetic modification, polygenic screening]
+  * cost of IVF?
+  * cost of egg collection?
+  * cost of sperm donations?
+  * cost of screening?
+
+By virtue of effective screening and or genetic modifications how will data collection change?
+
+Unions against IVF, polygenic screening.
+
+Backlash, protests.
+
+How much suppressions.
+
+Lobbying, non-profits
+
+Number of open-source repositories on GitHub focusing on PGS.
+
+Documentaries, number of documentaries.
+    Movies database. IMDB.

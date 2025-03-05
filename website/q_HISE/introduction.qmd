@@ -1,0 +1,20 @@
+
+
+# Notes
+
+* Insurance coverage for?
+  * Genetic modification
+  * Gene therapy
+  * Polygenic screening
+* If insurance coverage, for [polygenic screening, gene therapy, genetic modification]
+  * how selective?
+  * how costly?
+  * how different by country?
+* Cost of insurance increase
+  * if enhance modification?
+  * if "poor choice" modification, e.g. aggression
+* Cost of insurance decrease
+  * if chose certain modification, e.g. moral enhancement
+* Healthcare costs associated predominantly
+  * if someone was screened, because they were screened
+  * if someone was not screened, because they were screened
