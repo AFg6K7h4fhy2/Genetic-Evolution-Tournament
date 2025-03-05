@@ -25,104 +25,104 @@ book:
     - part: "Q: Ethical, Legal, & Societal Implications"
       chapters:
         - q_ELSI/introduction.qmd
-        - q_ELSI/q_ELSI_01.qmd
-        - q_ELSI/q_ELSI_02.qmd
-        - q_ELSI/q_ELSI_03.qmd
-        - q_ELSI/q_ELSI_04.qmd
-        - q_ELSI/q_ELSI_05.qmd
-        - q_ELSI/q_ELSI_06.qmd
-        - q_ELSI/q_ELSI_07.qmd
-        - q_ELSI/q_ELSI_08.qmd
-        - q_ELSI/q_ELSI_09.qmd
-        - q_ELSI/q_ELSI_10.qmd
-        - q_ELSI/q_ELSI_11.qmd
-        - q_ELSI/q_ELSI_12.qmd
-        - q_ELSI/q_ELSI_13.qmd
-        - q_ELSI/q_ELSI_14.qmd
-        - q_ELSI/q_ELSI_15.qmd
-        - q_ELSI/q_ELSI_16.qmd
-        - q_ELSI/q_ELSI_17.qmd
-        - q_ELSI/q_ELSI_18.qmd
-        - q_ELSI/q_ELSI_19.qmd
-        - q_ELSI/q_ELSI_20.qmd
-        - q_ELSI/q_ELSI_21.qmd
-        - q_ELSI/q_ELSI_22.qmd
-        - q_ELSI/q_ELSI_23.qmd
-        - q_ELSI/q_ELSI_24.qmd
-        - q_ELSI/q_ELSI_25.qmd
-        - q_ELSI/q_ELSI_26.qmd
-        - q_ELSI/q_ELSI_27.qmd
-        - q_ELSI/q_ELSI_28.qmd
-        - q_ELSI/q_ELSI_29.qmd
-        - q_ELSI/q_ELSI_30.qmd
+        # - q_ELSI/q_ELSI_01.qmd
+        # - q_ELSI/q_ELSI_02.qmd
+        # - q_ELSI/q_ELSI_03.qmd
+        # - q_ELSI/q_ELSI_04.qmd
+        # - q_ELSI/q_ELSI_05.qmd
+        # - q_ELSI/q_ELSI_06.qmd
+        # - q_ELSI/q_ELSI_07.qmd
+        # - q_ELSI/q_ELSI_08.qmd
+        # - q_ELSI/q_ELSI_09.qmd
+        # - q_ELSI/q_ELSI_10.qmd
+        # - q_ELSI/q_ELSI_11.qmd
+        # - q_ELSI/q_ELSI_12.qmd
+        # - q_ELSI/q_ELSI_13.qmd
+        # - q_ELSI/q_ELSI_14.qmd
+        # - q_ELSI/q_ELSI_15.qmd
+        # - q_ELSI/q_ELSI_16.qmd
+        # - q_ELSI/q_ELSI_17.qmd
+        # - q_ELSI/q_ELSI_18.qmd
+        # - q_ELSI/q_ELSI_19.qmd
+        # - q_ELSI/q_ELSI_20.qmd
+        # - q_ELSI/q_ELSI_21.qmd
+        # - q_ELSI/q_ELSI_22.qmd
+        # - q_ELSI/q_ELSI_23.qmd
+        # - q_ELSI/q_ELSI_24.qmd
+        # - q_ELSI/q_ELSI_25.qmd
+        # - q_ELSI/q_ELSI_26.qmd
+        # - q_ELSI/q_ELSI_27.qmd
+        # - q_ELSI/q_ELSI_28.qmd
+        # - q_ELSI/q_ELSI_29.qmd
+        # - q_ELSI/q_ELSI_30.qmd
     - part: "Q: Technological Advancements & Clinical Applications"
     - part: "Q: Regulatory & Policy Developments"
     - part: "Q: Accessibility & Demographic Shifts"
       chapters:
         - q_ADS/introduction.qmd
-        - q_ADS/q_ADS_01.qmd
-        - q_ADS/q_ADS_02.qmd
-        - q_ADS/q_ADS_03.qmd
-        - q_ADS/q_ADS_04.qmd
-        - q_ADS/q_ADS_05.qmd
-        - q_ADS/q_ADS_06.qmd
-        - q_ADS/q_ADS_07.qmd
-        - q_ADS/q_ADS_08.qmd
-        - q_ADS/q_ADS_09.qmd
-        - q_ADS/q_ADS_10.qmd
-        - q_ADS/q_ADS_11.qmd
-        - q_ADS/q_ADS_12.qmd
-        - q_ADS/q_ADS_13.qmd
-        - q_ADS/q_ADS_14.qmd
-        - q_ADS/q_ADS_15.qmd
-        - q_ADS/q_ADS_16.qmd
-        - q_ADS/q_ADS_17.qmd
-        - q_ADS/q_ADS_18.qmd
-        - q_ADS/q_ADS_19.qmd
-        - q_ADS/q_ADS_20.qmd
-        - q_ADS/q_ADS_21.qmd
-        - q_ADS/q_ADS_22.qmd
-        - q_ADS/q_ADS_23.qmd
-        - q_ADS/q_ADS_24.qmd
-        - q_ADS/q_ADS_25.qmd
-        - q_ADS/q_ADS_26.qmd
-        - q_ADS/q_ADS_27.qmd
-        - q_ADS/q_ADS_28.qmd
-        - q_ADS/q_ADS_29.qmd
-        - q_ADS/q_ADS_30.qmd
+        # - q_ADS/q_ADS_01.qmd
+        # - q_ADS/q_ADS_02.qmd
+        # - q_ADS/q_ADS_03.qmd
+        # - q_ADS/q_ADS_04.qmd
+        # - q_ADS/q_ADS_05.qmd
+        # - q_ADS/q_ADS_06.qmd
+        # - q_ADS/q_ADS_07.qmd
+        # - q_ADS/q_ADS_08.qmd
+        # - q_ADS/q_ADS_09.qmd
+        # - q_ADS/q_ADS_10.qmd
+        # - q_ADS/q_ADS_11.qmd
+        # - q_ADS/q_ADS_12.qmd
+        # - q_ADS/q_ADS_13.qmd
+        # - q_ADS/q_ADS_14.qmd
+        # - q_ADS/q_ADS_15.qmd
+        # - q_ADS/q_ADS_16.qmd
+        # - q_ADS/q_ADS_17.qmd
+        # - q_ADS/q_ADS_18.qmd
+        # - q_ADS/q_ADS_19.qmd
+        # - q_ADS/q_ADS_20.qmd
+        # - q_ADS/q_ADS_21.qmd
+        # - q_ADS/q_ADS_22.qmd
+        # - q_ADS/q_ADS_23.qmd
+        # - q_ADS/q_ADS_24.qmd
+        # - q_ADS/q_ADS_25.qmd
+        # - q_ADS/q_ADS_26.qmd
+        # - q_ADS/q_ADS_27.qmd
+        # - q_ADS/q_ADS_28.qmd
+        # - q_ADS/q_ADS_29.qmd
+        # - q_ADS/q_ADS_30.qmd
     - part: "Q: Healthcare & Insurance System Evolution"
       chapters:
         - q_HISE/introduction.qmd
-        - q_HISE/q_HISE_01.qmd
-        - q_HISE/q_HISE_02.qmd
-        - q_HISE/q_HISE_03.qmd
-        - q_HISE/q_HISE_04.qmd
-        - q_HISE/q_HISE_05.qmd
-        - q_HISE/q_HISE_06.qmd
-        - q_HISE/q_HISE_07.qmd
-        - q_HISE/q_HISE_08.qmd
-        - q_HISE/q_HISE_09.qmd
-        - q_HISE/q_HISE_10.qmd
-        - q_HISE/q_HISE_11.qmd
-        - q_HISE/q_HISE_12.qmd
-        - q_HISE/q_HISE_13.qmd
-        - q_HISE/q_HISE_14.qmd
-        - q_HISE/q_HISE_15.qmd
-        - q_HISE/q_HISE_16.qmd
-        - q_HISE/q_HISE_17.qmd
-        - q_HISE/q_HISE_18.qmd
-        - q_HISE/q_HISE_19.qmd
-        - q_HISE/q_HISE_20.qmd
-        - q_HISE/q_HISE_21.qmd
-        - q_HISE/q_HISE_22.qmd
-        - q_HISE/q_HISE_23.qmd
-        - q_HISE/q_HISE_24.qmd
-        - q_HISE/q_HISE_25.qmd
-        - q_HISE/q_HISE_26.qmd
-        - q_HISE/q_HISE_27.qmd
-        - q_HISE/q_HISE_28.qmd
-        - q_HISE/q_HISE_29.qmd
-        - q_HISE/q_HISE_30.qmd
+        # - q_HISE/q_HISE_01.qmd
+        # - q_HISE/q_HISE_02.qmd
+        # - q_HISE/q_HISE_03.qmd
+        # - q_HISE/q_HISE_04.qmd
+        # - q_HISE/q_HISE_05.qmd
+        # - q_HISE/q_HISE_06.qmd
+        # - q_HISE/q_HISE_07.qmd
+        # - q_HISE/q_HISE_08.qmd
+        # - q_HISE/q_HISE_09.qmd
+        # - q_HISE/q_HISE_10.qmd
+        # - q_HISE/q_HISE_11.qmd
+        # - q_HISE/q_HISE_12.qmd
+        # - q_HISE/q_HISE_13.qmd
+        # - q_HISE/q_HISE_14.qmd
+        # - q_HISE/q_HISE_15.qmd
+        # - q_HISE/q_HISE_16.qmd
+        # - q_HISE/q_HISE_17.qmd
+        # - q_HISE/q_HISE_18.qmd
+        # - q_HISE/q_HISE_19.qmd
+        # - q_HISE/q_HISE_20.qmd
+        # - q_HISE/q_HISE_21.qmd
+        # - q_HISE/q_HISE_22.qmd
+        # - q_HISE/q_HISE_23.qmd
+        # - q_HISE/q_HISE_24.qmd
+        # - q_HISE/q_HISE_25.qmd
+        # - q_HISE/q_HISE_26.qmd
+        # - q_HISE/q_HISE_27.qmd
+        # - q_HISE/q_HISE_28.qmd
+        # - q_HISE/q_HISE_29.qmd
+        # - q_HISE/q_HISE_30.qmd
     - part: Announcements
       chapters:
         - announcements/lw_and_eaf.qmd
