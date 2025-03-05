@@ -1,57 +1,89 @@
 /* Define font family variables */
 $tex-gyre-schola: "TeX Gyre Schola";
 $iosevka: "Iosevka";
+$victorian-regular: "Victorian Regular";
+$canterbury-regular: "Canterbury Regular";
+$im-fell: "IM Fell";
+
 
 /* CUSTOM FONTS ##############################################################*/
 @font-face {
-  font-family: $tex-gyre-schola;
-  src: url("./assets/fonts/tex-gyre/texgyreschola-regular.otf") format("opentype");
-  font-weight: normal;
-  font-style: normal;
+font-family: $canterbury-regular;
+src: url("./assets/fonts/old-english/Canterbury.ttf") format("truetype");
+font-weight: normal;
+font-style: normal;
 }
 
 @font-face {
-  font-family: $tex-gyre-schola;
-  src: url("./assets/fonts/tex-gyre/texgyreschola-bold.otf") format("opentype");
-  font-weight: bold;
-  font-style: normal;
+font-family: $victorian-regular;
+src: url("./assets/fonts/old-english/VictorianText.ttf") format("truetype");
+font-weight: normal;
+font-style: normal;
 }
 
 @font-face {
-  font-family: $tex-gyre-schola;
-  src: url("./assets/fonts/tex-gyre/texgyreschola-italic.otf") format("opentype");
-  font-weight: normal;
-  font-style: italic;
+font-family: $im-fell;
+src: url("./assets/fonts/old-english/IMFeENrm29P.ttf") format("truetype");
+font-weight: normal;
+font-style: normal;
 }
 
 @font-face {
-  font-family: $tex-gyre-schola;
-  src: url("./assets/fonts/tex-gyre/texgyreschola-bolditalic.otf") format("opentype");
-  font-weight: bold;
-  font-style: italic;
+font-family: $tex-gyre-schola;
+src: url("./assets/fonts/tex-gyre/texgyreschola-regular.otf") format("opentype");
+font-weight: normal;
+font-style: normal;
 }
 
 @font-face {
-  font-family: $iosevka;
-  src: url("./assets/fonts/iosevka/Iosevka-Regular.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
+font-family: $tex-gyre-schola;
+src: url("./assets/fonts/tex-gyre/texgyreschola-regular.otf") format("opentype");
+font-weight: normal;
+font-style: normal;
+}
+
+
+@font-face {
+font-family: $tex-gyre-schola;
+src: url("./assets/fonts/tex-gyre/texgyreschola-bold.otf") format("opentype");
+font-weight: bold;
+font-style: normal;
 }
 
 @font-face {
-  font-family: $iosevka;
-  src: url("./assets/fonts/iosevka/Iosevka-Bold.ttf") format("truetype");
-  font-weight: bold;
-  font-style: normal;
+font-family: $tex-gyre-schola;
+src: url("./assets/fonts/tex-gyre/texgyreschola-italic.otf") format("opentype");
+font-weight: normal;
+font-style: italic;
 }
 
 @font-face {
-  font-family: $iosevka;
-  src: url("./assets/fonts/iosevka/Iosevka-Italic.ttf") format("truetype");
-  font-weight: normal;
-  font-style: italic;
+font-family: $tex-gyre-schola;
+src: url("./assets/fonts/tex-gyre/texgyreschola-bolditalic.otf") format("opentype");
+font-weight: bold;
+font-style: italic;
 }
 
+@font-face {
+font-family: $iosevka;
+src: url("./assets/fonts/iosevka/Iosevka-Regular.ttf") format("truetype");
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: $iosevka;
+src: url("./assets/fonts/iosevka/Iosevka-Bold.ttf") format("truetype");
+font-weight: bold;
+font-style: normal;
+}
+
+@font-face {
+font-family: $iosevka;
+src: url("./assets/fonts/iosevka/Iosevka-Italic.ttf") format("truetype");
+font-weight: normal;
+font-style: italic;
+}
 /*BODY #######################################################################*/
 
 /*-- scss:rules --*/
@@ -65,6 +97,13 @@ h1, h2, h3, h4, h5, h6 {
 
 code {
   font-family: $iosevka, monospace;
+}
+
+.navbar-title {
+    font-family: $im-fell;
+    font-size: 36px;
+    color: $navbar-fg;
+    font-style: normal;
 }
 
 

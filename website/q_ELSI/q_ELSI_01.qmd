@@ -20,8 +20,10 @@
 
 ## Background Information
 
-Any legal doctrine must be explicit permissive of the genetic modification.
+## Resolution Criteria
 
 ### Fine Print
 
-## Resolution Criteria
+## Notes
+
+The author does not currently know the legal status of genetically engineering humans in all of the Earth's nations. The situation this question focuses on is when nation articulate, in a legal framework, explicit permissions for the use of genetic engineering tools on humans, prenatally. The legality need not be complete; this question will resolve positively if only a particular subset of humans can legally perform the genetic engineering. Perhaps another question can be created for when the first instance of legal private citizenry editing occurs.

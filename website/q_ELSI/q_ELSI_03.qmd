@@ -1,7 +1,5 @@
 # How many lawsuits will be filed in the United States against companies offering in-vitro fertilization (IVF) services that screen for the following traits by 2030?
 
-# How many lawsuits will be filed in the United States against companies offering in-vitro fertilization (IVF) services that screen for the following traits by 2050?
-
 * Intelligence
 * Longevity
 * Height
@@ -23,6 +21,9 @@
 
 ## Background Information
 
-### Fine Print
 
 ## Resolution Criteria
+
+### Fine Print
+
+## Notes

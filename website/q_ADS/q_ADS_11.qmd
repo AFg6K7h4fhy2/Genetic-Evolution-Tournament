@@ -1,0 +1,30 @@
+
+# Conditional on the use of polygenic screening or genetic modification for these traits being adopted by the following nations, what will measurements in [trait] change by [year] in the following nations?
+
+* Intelligence
+* Longevity
+* Height
+* Eye Color
+* Skin Color
+* Physical Strength
+* Disease Resistance
+* Cardiovascular Health
+* Metabolism
+* Pain Tolerance
+* Depression/Anxiety
+* Visual Acuity
+* Hair Color/Texture
+* Resistance To Addiction
+* Empathy
+* Aggression
+* Morality
+
+## Background Information
+
+## Resolution Criteria
+
+### Fine Print
+
+## Notes
+
+The number of traits needs to be reduced. For some questions, focusing on subset of traits with measured precident.
