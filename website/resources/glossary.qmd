@@ -1,0 +1,13 @@
+# Glossary
+
+_This document contains several collected glossaries across_.
+
+* [Glossary of Genetic Engineering Terms](https://www.iatp.org/sites/default/files/Glossary_of_Genetic_Engineering_Terms.htm) By Dr. Mae-Wan Ho
+* [Assisted Reproductive Technology (ART) Glossary Of Terms](https://www.cdc.gov/art/glossary/index.html)
+* [Assisted Reproductive Technology - Glossary UNSW Embryology](https://embryology.med.unsw.edu.au/embryology/index.php/Assisted_Reproductive_Technology_-_Glossary#Assisted_reproductive_technology)
+* [Society For Assisted Reproductive Technology](https://www.sart.org/patients/a-patients-guide-to-assisted-reproductive-technology/patient-resources/glossary/)
+* [The Internal Glossary on Infertility and Fertility Care](https://www.icmartivf.org/glossary/a-d/) by International Committee Monitoring Assisted Reproductive Technologies
+* [Glossary of Terms](https://archive.cdc.gov/www_cdc_gov/genomics/about/glossary.htm) by CDC
+* [NCI Dictionary of Genetics Terms](https://www.cancer.gov/publications/dictionaries/genetics-dictionary/expand/A) by National Cancer Institute
+* [Creating Future People]()
+* [The End Of Sex And The Future Of Human Reproduction]()
