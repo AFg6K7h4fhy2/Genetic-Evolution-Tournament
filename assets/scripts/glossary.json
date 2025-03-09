@@ -22,7 +22,7 @@
             "Protein": "A protein is made up of building blocks called amino acids. The main role of DNA is to act as the instructions for making proteins. It is actually proteins that make up most of the structures in our bodies and perform most of life's functions. For example, proteins make up hair and skin. Proteins in our eyes change shape in response to light so we can see. Proteins in our bodies break down food. Proteins are made in cells and are the major parts of cells, which are the vital working units of all living things.",
             "Recessive": "For recessive diseases, both copies of a gene must have the DNA mutation for a person to have one of these diseases. If both parents have one copy of the mutated gene, each child has a 25% chance of having the disease, even though neither parent has it. In such cases, each parent is called a carrier of the disease. They can pass the disease on to their children, but do not have the disease themselves.",
             "Single Nucleotide Polymorphism (SNP)": "Single nucleotide polymorphisms (SNPs) are changes at a single DNA base that are present among at least 1% of people in at least one population. For example, at a given DNA location, some people will have one base (e.g., adenine), while other people will have a different base (e.g., guanine). The SNP that is more common among a given group of people is called the major allele and the one that is less common is called the minor allele.",
-        },
+        }
     },
     "international_fertility_care": {
         "name": "The International Glossary On Infertility And Fertility Care",
@@ -312,7 +312,7 @@
             "Zona pellucida": "The glycoprotein coat surrounding the oocyte.",
             "Zygote": "A single cell resulting from fertilization of a mature oocyte by a spermatozoon and before completion of the first mitotic division.",
             "Zygote intrafallopian transfer (ZIFT)": "An ART procedure in which one or more zygotes is transferred into the Fallopian tube.",
-        },
+        }
     },
     "sart": {
         "name": "Society For Assited Reproductive Technology Glossary",
@@ -406,7 +406,7 @@
             "Zona pellucida": "The egg’s outer layer that a sperm must penetrate in order to fertilize the egg.",
             "Zygote": "A fertilized egg before cell division (cleavage) begins.",
             "Zygote intrafallopian tube transfer (ZIFT)": "An egg is fertilized in the laboratory and the zygote is transferred to the fallopian tube before cell division takes place. Eggs are retrieved and fertilized on one day and the embryo is transferred the following day.",
-        },
+        }
     },
     "unsw_embrylogy": {
         "name": "UNSW Embroylogy Assisted Reproductive Technology Glossary",
@@ -510,7 +510,7 @@
             "ZIFT": "See Zygote intrafallopian transfer.",
             "Zygote": "A diploid cell resulting from the fertilization of an oocyte by a spermatozoon, which subsequently divides to form an embryo.",
             "Zygote intrafallopian transfer": "(ZIFT) A procedure in which zygote(s) is/are transferred into the fallopian tube.",
-        },
+        }
     },
     "cdc_art": {
         "name": "CDC Assisted Reproductive Technology Glossary Of Terms",
@@ -566,7 +566,7 @@
             "Unstimulated cycle": "An ART cycle where the woman does not receive drugs to stimulate her ovaries to produce more follicles and eggs. Instead, follicles and eggs develop naturally.",
             "Uterine factor infertility": "A structural or functional disorder of the uterus that results in reduced fertility.",
             "ZIFT (zygote intrafallopian transfer)": "An ART procedure where eggs are collected from a woman's ovary and fertilized outside her body. A laparoscope is then used to place the resulting zygote (fertilized egg before it begins to divide) into the woman's fallopian tube through a small incision in her abdomen.",
-        },
+        }
     },
     "mae_wan_ho": {
         "name": "Glossary of Genetic Engineering Terms By Dr. Mae-Wan Ho",
@@ -662,7 +662,7 @@
             "Vector": "A carrier or transmitter, of genes or of disease. Artificial vectors are made in genetic engineering for multiplying and transferring genes into genomes.",
             "Virus": "A parasitic genetic element enclosed in a protein coat that can replicate in cells, and form infectious particles, or remain dormant in the cells. Its genetic material can become integrated into the cell's genome to form provirus.",
             "Virulence": "Ability (of pathogens) to infect organisms and cause disease",
-        },
+        }
     },
     "nci_genetic_terms": {
         "name": "National Cancer Institute Dictionary of Genetics Terms",
@@ -911,7 +911,7 @@
             "WXS": "A laboratory process that sequences primarily the protein-coding regions of the genome (about 1% of total DNA). Also called WES or whole exome sequencing.",
             "X-linked dominant inheritance": "A mode of inheritance for conditions caused by mutations on the X chromosome where a single copy of the mutation causes disease in both males and females. In some cases, affected males may not survive.",
             "X-linked recessive inheritance": "A mode of inheritance for conditions caused by mutations on the X chromosome where males are typically affected because they have only one X chromosome, while females are usually carriers if they have one mutated allele.",
-        },
+        }
     },
     "creating_future": {
         "name": "Creating Future People Glossary",
@@ -945,7 +945,7 @@
             "conditionally cooperate": "Cooperate if and only if your opponent cooperates.",
             "weak reciprocity": "A disposition to conditionally cooperate.",
             "strong reciprocity": "A disposition to cooperate first, and to steadily increase cooperation in response to another player’s willingness to cooperate, while also punishing defectors even at significant personal cost."
-        },
+        }
     },
     "end_of_sex": {
         "name": "End Of Sex And The Future Of Human Reproduction",
@@ -1027,5 +1027,5 @@
             "Trophectoderm": "The outer layer of a blastocyst that forms the hollow ball in which the inner cell mass sits; it eventually forms the placenta and supporting tissues.",
             "Zygote": "A fertilized egg. The DNA from the sperm and egg merge as the zygote divides into a two-cell embryo."
         }
-    },
+    }
 }
