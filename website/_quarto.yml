@@ -133,10 +133,10 @@ book:
         - resources/books.qmd
         - resources/lw_and_eaf_posts.qmd
         - resources/wiki.qmd
+        - resources/glossary.qmd
     - part: Appendix
       chapters:
         - appendix/FAQ.qmd
-        - appendix/glossary.qmd
         - appendix/trends.qmd
         - appendix/additional_remarks.qmd
   downloads:
