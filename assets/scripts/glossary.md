@@ -1,22 +1,3 @@
-# Glossary
-
-_This document contains several collected glossaries across_.
-
-Online Sites:
-
-* [Glossary of Genetic Engineering Terms](https://www.iatp.org/sites/default/files/Glossary_of_Genetic_Engineering_Terms.htm) by Dr. Mae-Wan Ho.
-* [Assisted Reproductive Technology (ART) Glossary Of Terms](https://www.cdc.gov/art/glossary/index.html) by The CDC.
-* [Assisted Reproductive Technology - Glossary UNSW Embryology](https://embryology.med.unsw.edu.au/embryology/index.php/Assisted_Reproductive_Technology_-_Glossary#Assisted_reproductive_technology)
-* [Society For Assisted Reproductive Technology](https://www.sart.org/patients/a-patients-guide-to-assisted-reproductive-technology/patient-resources/glossary/)
-* [The Internal Glossary on Infertility and Fertility Care](https://www.icmartivf.org/glossary/a-d/) by International Committee Monitoring Assisted Reproductive Technologies
-* [Glossary of Terms](https://archive.cdc.gov/www_cdc_gov/genomics/about/glossary.htm) by CDC Genomics
-* [NCI Dictionary of Genetics Terms](https://www.cancer.gov/publications/dictionaries/genetics-dictionary/expand/A) by National Cancer Institute
-
-Books:
-
-* [Creating Future People](https://www.amazon.com/Creating-Future-People-Jonathan-Anomaly/dp/1032636572)
-* [The End Of Sex And The Future Of Human Reproduction](https://www.hup.harvard.edu/books/9780674984011)
-
 **aCGH Array**
 
 - Comprehensive genomic hybridization, sometimes abbreviated ACGH or array CGH, is a laboratory technique that can detect aneuploidies (samples with the wrong number of chromosomes) as well as much smaller deletions, duplications, or movements of DNA within or between chromosomes.

@@ -12,6 +12,11 @@ AFg6K7h4fhy2 = "AFg6K7h4fhy2"
 dot_acn = ".acn"
 dot_fot = ".fot"
 dot_ist = ".ist"
+LOD = "LOD"
+SART = "SART"
+vas = "vas"
+TESE = "TESE"
+transfering = "transfering"
 
 [files]
 extend-exclude = ["*.bib", "*.json", "*.js", "*.css", ".gitignore", ".pre-commit-config.yaml", "./.github/ISSUE_TEMPLATE/general_issue.md"]
